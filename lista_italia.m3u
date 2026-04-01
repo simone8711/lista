@@ -1,14 +1,13 @@
 #EXTM3U
-x-tvg-url="https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz"
-#EXTINF:-1 tvg-id="Rai1.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" group-title="Italy",Rai 1 HD (720p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="Rai1.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/960px-Rai_1_-_Logo_2016.svg.png" group-title="Italy",Rai 1 HD
 https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd
-#EXTINF:-1 tvg-id="Rai2.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png" group-title="Italy",Rai 2 HD (720p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="Rai2.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/960px-Rai_2_-_Logo_2016.svg.png" group-title="Italy",Rai 2 HD
 https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd
-#EXTINF:-1 tvg-id="Rai3.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" group-title="Italy",Rai 3 (720p)
+#EXTINF:-1 tvg-id="Rai3.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/960px-Rai_3_-_Logo_2016.svg.png" group-title="Italy",Rai 3 HD
 https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
 #EXTINF:-1 tvg-name="Rete 4 Ⓖ" tvg-logo="https://i.imgur.com/GWx2Fkl.png" tvg-id="Rete4.it" tvg-country="IT" group-title="Italy",Rete 4 Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
-#EXTINF:-1 tvg-id="Canale5.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png" group-title="Italy",Canale 5 HD (720p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="Canale5.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/960px-Canale_5_-_2018_logo.svg.png" group-title="Italy",Canale 5 HD
 https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd
 #EXTINF:-1 tvg-name="Italia 1 Ⓖ" tvg-logo="https://i.imgur.com/oCiOxBG.png" tvg-id="Italia1.it" tvg-country="IT" group-title="Italy",Italia 1 Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
@@ -82,7 +81,7 @@ https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnt
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
 #EXTINF:-1 tvg-name="DMAX" tvg-logo="https://i.imgur.com/dmEmRX7.png" tvg-id="DMAXItaly.it" tvg-country="IT" group-title="Italy",DMAX
 https://d2j2nqgg7bzth.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-02k1gv1j0ufwn/DMAX_IT.m3u8
-#EXTINF:-1 tvg-id="RaiStoria.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png" group-title="Italy",Rai Storia HD (1080p) [Geo-Blocked]
+#EXTINF:-1 tvg-id="RaiStoria.it@HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/960px-Rai_Storia_-_Logo_2017.svg.png" group-title="Italy",Rai Storia HD
 https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd
 #EXTINF:-1 tvg-name="Mediaset Extra Ⓖ" tvg-logo="https://i.imgur.com/mM8lopo.png" tvg-id="MediasetExtra.it" tvg-country="IT" group-title="Italy",Mediaset Extra Ⓖ
 https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
@@ -102,12 +101,12 @@ https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
 #EXTINF:-1 tvg-name="SuperTennis" tvg-logo="https://i.imgur.com/GzsPlbX.png" tvg-id="SuperTennis.it" tvg-country="IT" group-title="Italy",SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-#EXTINF:-1 tvg-id="italianfishingtv.it" tvg-name="Italian Fishing TV" tvg-country="IT" group-title="Italy" tvg-logo="https://www.italianfishingtv.it/wp-content/uploads/2020/04/logo-iftv-300x300.png",Italian Fishing TV
-https://www.italianfishingtv.it/live/
-#EXTINF:-1 tvg-id="rsi1.ch" tvg-name="RSI La 1" tvg-country="IT" group-title="Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/RSI_La_1_logo_2012.svg/512px-RSI_La_1_logo_2012.svg.png",RSI La 1
+#EXTINF:-1 tvg-id="italianfishingtv.it" tvg-name="Italian Fishing TV" tvg-logo="https://www.italianfishingtv.it/wp-content/uploads/2020/04/logo-iftv.png" group-title="Italy",Italian Fishing TV
+https://5f22d76e220e1.streamlock.net/iftv/iftv/playlist.m3u8
+#EXTINF:-1 tvg-id="rsi1.ch" tvg-name="RSI La 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5c/RSI_La_1_logo_2012.svg" group-title="Italy",RSI La 1
 https://lsaplus.swisstxt.ch/video/la1/index.m3u8
-#EXTINF:-1 tvg-id="rsi2.ch" tvg-name="RSI La 2" tvg-country="IT" group-title="Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/RSI_La_2_2012.svg/512px-RSI_La_2_2012.svg.png",RSI La 2
-https://lsaplus.swisstxt.ch/video/la2/index.m3u8
+#EXTINF:-1 tvg-id="rsi2.ch" tvg-name="RSI La 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0c/RSI_La_2_logo_2012.svg" group-title="Italy",RSI La 2
+https://lsaplus.swisstxt.ch/video/la2/index.m3u8" 
 #EXTINF:-1 tvg-name="Alma TV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" tvg-id="AlmaTV.it" tvg-country="IT" group-title="Italy",Alma TV
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio 105 TV Ⓖ" tvg-logo="https://i.imgur.com/3NiLKvj.png" tvg-id="Radio105TV.it" tvg-country="IT" group-title="Italy",Radio 105 TV Ⓖ
