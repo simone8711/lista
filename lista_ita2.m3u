@@ -101,8 +101,8 @@ https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
 https://5a1178b42cc03.streamlock.net/donnatv/donnatv/playlist.m3u8
 #EXTINF:-1 tvg-name="SuperTennis" tvg-logo="https://i.imgur.com/GzsPlbX.png" tvg-id="SuperTennis.it" tvg-chno="64" tvg-country="IT" group-title="Italy",SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-#EXTINF:-1 tvg-name="Italian Fishing TV" tvg-logo="https://i.imgur.com/Q0jHCdC.png" tvg-id="ItalianFishingTV.it" tvg-chno="4516" group-title="Italy",Italian Fishing TV
-https://itftv-italianfishingtv-1-it.samsung.wurl.tv/playlist.m3u8
+#EXTINF:-1 tvg-id="ItalianFishingTV.it@SD" tvg-logo="https://i.imgur.com/qrn6tUO.png" group-title="Italy",Italian Fishing TV
+https://fms.premio.link/fishingtv/playlist.m3u8
 #EXTINF:-1 tvg-name="RSI La 1" tvg-logo="https://i.imgur.com/j8ogbli.png" tvg-id="RSILa1.ch" tvg-chno="1" tvg-country="IT" group-title="Italy",RSI la 1
 http://190.2.155.162/RSI1/index.m3u8
 #EXTINF:-1 tvg-name="RSI La 2" tvg-logo="https://i.imgur.com/vm62h3t.png" tvg-id="RSILa2.ch" tvg-chno="2" tvg-country="IT" group-title="Italy",RSI la 2
