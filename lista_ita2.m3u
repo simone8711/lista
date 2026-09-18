@@ -179,23 +179,23 @@ https://vavoo-iptv-stream-proxy.deployzy.app/stream/2347b4891a8cdbd882c1df
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
 https://vavoo-iptv-stream-proxy.deployzy.app/stream/fe22991a3de1a45fa06285
-#EXTINF:-1 tvg-name="DAZN 1 .c" group-title="Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/DAZN_1_logo.png" tvg-id="DAZN 1 .c",DAZN 1 .c
+#EXTINF:-1 tvg-name="DAZN 1 .c" group-title="Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/dazn-1-es.png" tvg-id="DAZN 1 .c",DAZN 1 .c
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
 https://vavoo-iptv-stream-proxy.deployzy.app/stream/65c62c352571cd39124f8e
-#EXTINF:-1 tvg-name="EUROSPORT 1 .c" group-title="Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" tvg-id="EUROSPORT 1 .c",EUROSPORT 1 .c
+#EXTINF:-1 tvg-name="EUROSPORT 1 .c" group-title="Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" tvg-id="EUROSPORT 1 .c",EUROSPORT 1 .c
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
 https://vavoo-iptv-stream-proxy.deployzy.app/stream/8a6e8876b2cc7cfd7d47f5
-#EXTINF:-1 tvg-name="EUROSPORT 1 .s" group-title="Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e6/Eurosport_1_Logo_2015.png" tvg-id="EUROSPORT 1 .s",EUROSPORT 1 .s
+#EXTINF:-1 tvg-name="EUROSPORT 1 .s" group-title="Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" tvg-id="EUROSPORT 1 .s",EUROSPORT 1 .s
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
 https://vavoo-iptv-stream-proxy.deployzy.app/stream/c0076c941c792dddecc9aa
-#EXTINF:-1 tvg-name="EUROSPORT 2 .c" group-title="Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_2_Logo_2015.png" tvg-id="EUROSPORT 2 .c",EUROSPORT 2 .c
+#EXTINF:-1 tvg-name="EUROSPORT 2 .c" group-title="Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" tvg-id="EUROSPORT 2 .c",EUROSPORT 2 .c
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
 https://vavoo-iptv-stream-proxy.deployzy.app/stream/43a39475110060f5b04689
-#EXTINF:-1 tvg-name="EUROSPORT 2 .s" group-title="Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_2_Logo_2015.png" tvg-id="EUROSPORT 2 .s",EUROSPORT 2 .s
+#EXTINF:-1 tvg-name="EUROSPORT 2 .s" group-title="Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" tvg-id="EUROSPORT 2 .s",EUROSPORT 2 .s
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
 https://vavoo-iptv-stream-proxy.deployzy.app/stream/494d8bce5db63e4ef65ab1
