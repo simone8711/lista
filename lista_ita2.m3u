@@ -131,7 +131,7 @@ https://vavoo-iptv-stream-proxy.deployzy.app/stream/a65c9072e5e7dcdcbaf06f
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
 https://vavoo-iptv-stream-proxy.deployzy.app/stream/0a8803502fdf25f4d72efd
-#EXTINF:-1 tvg-name="SKY SPORT F1 .s" group-title="Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" tvg-id="SKY SPORT F1 .s",SKY SPORT F1 .s
+#EXTINF:-1 tvg-name="SKY SPORT F1 .c" group-title="Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" tvg-id="SKY SPORT F1 .c",SKY SPORT F1 .c
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
 https://vavoo-iptv-stream-proxy.deployzy.app/stream/108ea9ad6d54c8b98e00bd
