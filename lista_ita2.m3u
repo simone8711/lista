@@ -103,6 +103,94 @@ https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 tvg-name="Italian Fishing TV" tvg-logo="https://i.imgur.com/Q0jHCdC.png" tvg-id="ItalianFishingTV.it" tvg-chno="4516" group-title="Italy",Italian Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
+#EXTINF:-1 tvg-name="SKY SPORT .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=924661659.png" tvg-id="SKY SPORT .c",SKY SPORT .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://vavoo-iptv-stream-proxy.deployzy.app/stream/8a954ad7e588046e1ae518
+#EXTINF:-1 tvg-name="SKY SPORT 24 .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=2775802255.png" tvg-id="SKY SPORT 24 .c",SKY SPORT 24 .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://vavoo-iptv-stream-proxy.deployzy.app/stream/3219862c1d5cdd997ae814
+#EXTINF:-1 tvg-name="SKY SPORT 24 [LIVE DURING EVENTS ONLY] .s" group-title="Italy" tvg-logo="" tvg-id="SKY SPORT 24 [LIVE DURING EVENTS ONLY] .s",SKY SPORT 24 [LIVE DURING EVENTS ONLY] .s
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://vavoo-iptv-stream-proxy.deployzy.app/stream/96335403ee1aa400905556
+#EXTINF:-1 tvg-name="SKY SPORT ARENA .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=3007400791.png" tvg-id="SKY SPORT ARENA .c",SKY SPORT ARENA .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://vavoo-iptv-stream-proxy.deployzy.app/stream/9321f20e2ef208230eee9a
+#EXTINF:-1 tvg-name="SKY SPORT ARENA .s" group-title="Italy" tvg-logo="" tvg-id="SKY SPORT ARENA .s",SKY SPORT ARENA .s
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://vavoo-iptv-stream-proxy.deployzy.app/stream/928f64fe3b5aa2bfada724
+#EXTINF:-1 tvg-name="SKY SPORT CALCIO .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=1665920101.png" tvg-id="SKY SPORT CALCIO .c",SKY SPORT CALCIO .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://vavoo-iptv-stream-proxy.deployzy.app/stream/c6ce8473bdad2e7d98398e
+#EXTINF:-1 tvg-name="SKY SPORT CALCIO .s" group-title="Italy" tvg-logo="" tvg-id="SKY SPORT CALCIO .s",SKY SPORT CALCIO .s
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://vavoo-iptv-stream-proxy.deployzy.app/stream/a65c9072e5e7dcdcbaf06f
+#EXTINF:-1 tvg-name="SKY SPORT F1 .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=4246774056.png" tvg-id="SKY SPORT F1 .c",SKY SPORT F1 .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://vavoo-iptv-stream-proxy.deployzy.app/stream/0a8803502fdf25f4d72efd
+#EXTINF:-1 tvg-name="SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] .s" group-title="Italy" tvg-logo="" tvg-id="SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] .s",SKY SPORT FOOTBALL [LIVE DURING EVENTS ONLY] .s
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://vavoo-iptv-stream-proxy.deployzy.app/stream/2f48e149a7d4147358102b
+#EXTINF:-1 tvg-name="SKY SPORT GOLF .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=729945219.png" tvg-id="SKY SPORT GOLF .c",SKY SPORT GOLF .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://vavoo-iptv-stream-proxy.deployzy.app/stream/2d40812c58f2fbf2140ef9
+#EXTINF:-1 tvg-name="SKY SPORT MAX .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=2066326916.png" tvg-id="SKY SPORT MAX .c",SKY SPORT MAX .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://vavoo-iptv-stream-proxy.deployzy.app/stream/96aba55a9f2138b23d30b6
+#EXTINF:-1 tvg-name="SKY SPORT MOTO GP .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=3036316886.png" tvg-id="SKY SPORT MOTO GP .c",SKY SPORT MOTO GP .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://vavoo-iptv-stream-proxy.deployzy.app/stream/e454208384a998ea4efdff
+#EXTINF:-1 tvg-name="SKY SPORT MOTOGP .s" group-title="Italy" tvg-logo="" tvg-id="SKY SPORT MOTOGP .s",SKY SPORT MOTOGP .s
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://vavoo-iptv-stream-proxy.deployzy.app/stream/de32d0eb415cf057aefbd4
+#EXTINF:-1 tvg-name="SKY SPORT NBA .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=2711959620.png" tvg-id="SKY SPORT NBA .c",SKY SPORT NBA .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://vavoo-iptv-stream-proxy.deployzy.app/stream/9d756420d747268e9ff428
+#EXTINF:-1 tvg-name="SKY SPORT NBA .s" group-title="Italy" tvg-logo="" tvg-id="SKY SPORT NBA .s",SKY SPORT NBA .s
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://vavoo-iptv-stream-proxy.deployzy.app/stream/a0b5bf09191f1955635607
+#EXTINF:-1 tvg-name="SKY SPORT SERIE A .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=2077387085.png" tvg-id="SKY SPORT SERIE A .c",SKY SPORT SERIE A .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://vavoo-iptv-stream-proxy.deployzy.app/stream/c20f2d93bfecb9e528d79e
+#EXTINF:-1 tvg-name="SKY SPORT TENNIS .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=2100771782.png" tvg-id="SKY SPORT TENNIS .c",SKY SPORT TENNIS .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://vavoo-iptv-stream-proxy.deployzy.app/stream/04c9984557d06ff1b09643
+#EXTINF:-1 tvg-name="SKY SPORT TENNIS .s" group-title="Italy" tvg-logo="" tvg-id="SKY SPORT TENNIS .s",SKY SPORT TENNIS .s
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://vavoo-iptv-stream-proxy.deployzy.app/stream/2ce4b2859e509d3c515019
+#EXTINF:-1 tvg-name="SKY SPORT UNO .c" group-title="Italy" tvg-logo="https://logo.huhu.to/logo?c=210669162.png" tvg-id="SKY SPORT UNO .c",SKY SPORT UNO .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://vavoo-iptv-stream-proxy.deployzy.app/stream/2347b4891a8cdbd882c1df
+#EXTINF:-1 tvg-name="SKY SPORT UNO .s" group-title="Italy" tvg-logo="" tvg-id="SKY SPORT UNO .s",SKY SPORT UNO .s
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://vavoo-iptv-stream-proxy.deployzy.app/stream/fe22991a3de1a45fa06285
+#EXTINF:-1 tvg-name="SKY SPORTS F1 .s" group-title="Italy" tvg-logo="" tvg-id="SKY SPORTS F1 .s",SKY SPORTS F1 .s
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://vavoo-iptv-stream-proxy.deployzy.app/stream/108ea9ad6d54c8b98e00bd
+#EXTINF:-1 tvg-name="SKY SUPER TENNIS .s" group-title="Italy" tvg-logo="" tvg-id="SKY SUPER TENNIS .s",SKY SUPER TENNIS .s
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://vavoo-iptv-stream-proxy.deployzy.app/stream/ffaaf96f6817743117f794
 #EXTINF:-1 tvg-name="Alma TV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" tvg-id="AlmaTV.it" tvg-chno="65" tvg-country="IT" group-title="Italy",Alma TV
 https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio 105 TV" tvg-logo="https://i.imgur.com/3NiLKvj.png" tvg-id="Radio105TV.it" tvg-chno="66" tvg-country="IT" group-title="Italy",Radio 105 TV Ⓖ
