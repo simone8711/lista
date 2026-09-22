@@ -103,6 +103,22 @@ https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
 #EXTINF:-1 tvg-name="Italian Fishing TV" tvg-logo="https://i.imgur.com/Q0jHCdC.png" tvg-id="ItalianFishingTV.it" tvg-chno="4516" group-title="Italy",Italian Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
+#EXTINF:-1 tvg-name="RSI LA 1 .c" group-title="Italy" tvg-logo="https://i.imgur.com/j8ogbli.png" tvg-id="RSILa1.ch",RSI LA 1 .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://morningfield-8f8d9.app.onebit.ng/stream/fb00847293931c3819d34c
+#EXTINF:-1 tvg-name="RSI LA 1 .s" group-title="Italy" tvg-logo="https://i.imgur.com/j8ogbli.png" tvg-id="RSILa1.ch",RSI LA 1 .s
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://morningfield-8f8d9.app.onebit.ng/stream/2e524d31eb735dd850da89
+#EXTINF:-1 tvg-name="RSI LA 2 .c" group-title="Italy" tvg-logo="https://i.imgur.com/vm62h3t.png" tvg-id="RSILa2.ch",RSI LA 2 .c
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://morningfield-8f8d9.app.onebit.ng/stream/cce95b6cf619948f680b73
+#EXTINF:-1 tvg-name="RSI LA 2 .s" group-title="Italy" tvg-logo="https://i.imgur.com/vm62h3t.png" tvg-id="RSILa2.ch",RSI LA 2 .s
+#EXTVLCOPT:http-user-agent=VAVOO/2.6
+#EXTVLCOPT:no-ssl-verify
+https://morningfield-8f8d9.app.onebit.ng/stream/209156e6066f64c8b38a48
 #EXTINF:-1 tvg-name="SKY SPORT .c" group-title="Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-it.png" tvg-id="skysportuno.it",SKY SPORT .c
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
