@@ -146,11 +146,11 @@ https://vavoo-iptv-stream-proxy.deployzy.app/stream/a65c9072e5e7dcdcbaf06f
 #EXTINF:-1 tvg-name="SKY SPORT F1 .c" group-title="Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" tvg-id="skysportf1.it",SKY SPORT F1 .c
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
-https://vavoo-iptv-stream-proxy.deployzy.app/stream/0a8803502fdf25f4d72efd
+https://boldsnowflake-bcef0.app.onebit.ng/stream/0a8803502fdf25f4d72efd
 #EXTINF:-1 tvg-name="SKY SPORT F1 .s" group-title="Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" tvg-id="skysportf1.it",SKY SPORT F1 .s
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
-https://vavoo-iptv-stream-proxy.deployzy.app/stream/108ea9ad6d54c8b98e00bd
+https://boldsnowflake-bcef0.app.onebit.ng/stream/108ea9ad6d54c8b98e00bd
 #EXTINF:-1 tvg-name="SKY SPORT GOLF .c" group-title="Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" tvg-id="skysportgolf.it",SKY SPORT GOLF .c
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
