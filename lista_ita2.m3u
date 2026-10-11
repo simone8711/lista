@@ -114,7 +114,7 @@ http://109.205.187.150:8008/sunshine/SqjAdFOEUsvfvY9SICz02QJ8MfxaNZl-mkY2IHq4Oy0
 #EXTINF:-1 tvg-id="Sky Sport 24 Daddy" tvg-name="Sky Sport 24 Daddy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Italy",Sky Sport 24 Daddy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dlive.sx/
-https://daddy-deploy.simo-scorrano-11.workers.dev/?u=https%3A%2F%2Fedge.cowedd4855ws.sbs%2Fpremium869%2Findex.m3u8%3F_%3D1791658888147
+https://daddy-deploy.simo-scorrano-11.workers.dev/live?ch=869
 #EXTINF:-1 tvg-id="Sky Sport Arena" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Italy",Sky Sport Arena
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
@@ -122,7 +122,7 @@ http://45.148.10.140:8008/sunshine/Ffjoz-Vwz60fUkF1RUNjB8muR2rTaAPkQPBjo_WqSDrkV
 #EXTINF:-1 tvg-id="Sky Sport Arena Daddy" tvg-name="Sky Sport Arena Daddy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Italy",Sky Sport Arena Daddy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dlive.sx/
-https://daddy-deploy.simo-scorrano-11.workers.dev/?u=https%3A%2F%2Fedge.cowedd4855ws.sbs%2Fpremium462%2Findex.m3u8%3F_%3D1791658892227
+https://daddy-deploy.simo-scorrano-11.workers.dev/live?ch=462
 #EXTINF:-1 tvg-id="Sky Sport Calcio" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy",Sky Sport Calcio
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
@@ -130,7 +130,7 @@ http://109.205.187.150:8008/sunshine/PdKFknodYe9xvV51qa-ZFpM4ZSRYhquPC-jYQO7njBs
 #EXTINF:-1 tvg-id="Sky Sport Calcio Daddy" tvg-name="Sky Sport Calcio Daddy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy",Sky Sport Calcio Daddy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dlive.sx/
-https://daddy-deploy.simo-scorrano-11.workers.dev/?u=https%3A%2F%2Fedge.cowedd4855ws.sbs%2Fpremium870%2Findex.m3u8%3F_%3D1791658890273
+https://daddy-deploy.simo-scorrano-11.workers.dev/live?ch=870
 #EXTINF:-1 tvg-id="Sky Sport F1" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Italy",Sky Sport F1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
@@ -138,7 +138,7 @@ http://109.205.187.47:8008/sunshine/ORcxC-sAB1VkH90XrzM6nPaC1V8AXbrT0GztSJaiagAN
 #EXTINF:-1 tvg-id="Sky Sport F1 Daddy" tvg-name="Sky Sport F1 Daddy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Italy",Sky Sport F1 Daddy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dlive.sx/
-https://daddy-deploy.simo-scorrano-11.workers.dev/?u=https%3A%2F%2Fedge.cowedd4855ws.sbs%2Fpremium577%2Findex.m3u8%3F_%3D1791658895203
+https://daddy-deploy.simo-scorrano-11.workers.dev/live?ch=577
 #EXTINF:-1 tvg-id="Sky Sport Golf" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Italy",Sky Sport Golf
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
@@ -146,7 +146,7 @@ http://109.205.187.47:8008/sunshine/PmEl6C6i9yg2QmAThHqRrOhjfdAcYvnwYeg-YQHFAtsC
 #EXTINF:-1 tvg-id="Sky Sport Golf Daddy" tvg-name="Sky Sport Golf Daddy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Italy",Sky Sport Golf Daddy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dlive.sx/
-https://daddy-deploy.simo-scorrano-11.workers.dev/?u=https%3A%2F%2Fedge.cowedd4855ws.sbs%2Fpremium574%2Findex.m3u8%3F_%3D1791658897274
+https://daddy-deploy.simo-scorrano-11.workers.dev/live?ch=574
 #EXTINF:-1 tvg-id="Sky Sport Max" tvg-name="Sky Sport Max" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Italy",Sky Sport Max
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
@@ -154,7 +154,7 @@ http://109.205.187.150:8008/sunshine/DVotF3zYUZpt_Y7cOWlHa6Tvqynq5qdPaiSK-rfjO2e
 #EXTINF:-1 tvg-id="Sky Sport Max Daddy" tvg-name="Sky Sport Max Daddy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Italy",Sky Sport Max Daddy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dlive.sx/
-https://daddy-deploy.simo-scorrano-11.workers.dev/?u=https%3A%2F%2Fedge.cowedd4855ws.sbs%2Fpremium460%2Findex.m3u8%3F_%3D1791658894296
+https://daddy-deploy.simo-scorrano-11.workers.dev/live?ch=460
 #EXTINF:-1 tvg-id="Sky Sport MotoGP" tvg-name="Sky Sport MotoGP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Italy",Sky Sport MotoGP
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
@@ -162,7 +162,7 @@ http://109.205.187.150:8008/sunshine/wqQv9sFhdV0eYxeLuUTcZ3PxdZ68QGpBOJ0kntHfrRL
 #EXTINF:-1 tvg-id="Sky Sport MotoGP Daddy" tvg-name="Sky Sport MotoGP Daddy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Italy",Sky Sport MotoGP Daddy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dlive.sx/
-https://daddy-deploy.simo-scorrano-11.workers.dev/?u=https%3A%2F%2Fedge.cowedd4855ws.sbs%2Fpremium575%2Findex.m3u8%3F_%3D1791658896124
+https://daddy-deploy.simo-scorrano-11.workers.dev/live?ch=575
 #EXTINF:-1 tvg-id="Sky Sport Basket" tvg-name="Sky Sport Basket" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Italy",Sky Sport Basket
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
@@ -170,7 +170,7 @@ http://109.205.187.47:8008/sunshine/msv2Kj2T8GjPbKuMVv8oX3UhBdZFMhaAuPXXopI8v-la
 #EXTINF:-1 tvg-id="Sky Sport Basket Daddy" tvg-name="Sky Sport Basket Daddy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Italy",Sky Sport Basket Daddy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dlive.sx/
-https://daddy-deploy.simo-scorrano-11.workers.dev/?u=https%3A%2F%2Fedge.cowedd4855ws.sbs%2Fpremium875%2Findex.m3u8%3F_%3D1791658893286
+https://daddy-deploy.simo-scorrano-11.workers.dev/live?ch=875
 #EXTINF:-1 tvg-id="Sky Sport Serie A" tvg-name="Sky Sport Serie A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Italy",Sky Sport Serie A
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
@@ -182,7 +182,7 @@ http://93.123.109.95:8008/sunshine/iFgnlaKj1v1s4jdrJhR5uU-iFXBV8xpBm-o_Y2WzXbSDq
 #EXTINF:-1 tvg-id="Sky Sport Tennis Daddy" tvg-name="Sky Sport Tennis Daddy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Italy",Sky Sport Tennis Daddy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dlive.sx/
-https://daddy-deploy.simo-scorrano-11.workers.dev/?u=https%3A%2F%2Fedge.cowedd4855ws.sbs%2Fpremium576%2Findex.m3u8%3F_%3D1791658891275
+https://daddy-deploy.simo-scorrano-11.workers.dev/live?ch=576
 #EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="Sky Sport Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Italy",Sky Sport Uno
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
@@ -190,7 +190,7 @@ https://qldtgxziwdu7poz.fu8oefd4v2dvlmaarur6crfp.com/sunshine/wT9smx-nI1gR2ns_Ti
 #EXTINF:-1 tvg-id="Sky Sport Uno Daddy" tvg-name="Sky Sport Uno Daddy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Italy",Sky Sport Uno Daddy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dlive.sx/
-https://daddy-deploy.simo-scorrano-11.workers.dev/?u=https%3A%2F%2Fedge.cowedd4855ws.sbs%2Fpremium461%2Findex.m3u8%3F_%3D1791658889289
+https://daddy-deploy.simo-scorrano-11.workers.dev/live?ch=461
 #EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/DAZN_1_logo.png" group-title="Italy",DAZN 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
@@ -198,7 +198,7 @@ http://45.148.10.140:8008/sunshine/8F-Sz0-e6HH3-NgQbQAf7IQcyYfDmIxFbtHZNDcXCDbVp
 #EXTINF:-1 tvg-id="DAZN 1 Daddy" tvg-name="DAZN 1 Daddy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/DAZN_1_logo.png" group-title="Italy",DAZN 1 Daddy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dlive.sx/
-https://daddy-deploy.simo-scorrano-11.workers.dev/?u=https%3A%2F%2Fedge.cowedd4855ws.sbs%2Fpremium877%2Findex.m3u8%3F_%3D1791658898250
+https://daddy-deploy.simo-scorrano-11.workers.dev/live?ch=877
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Italy",Eurosport 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
@@ -206,7 +206,7 @@ https://qldtgxziwdu7poz.fu8oefd4v2dvlmaarur6crfp.com/sunshine/hmoqvES5o6qNySUrUA
 #EXTINF:-1 tvg-id="Eurosport 1 Daddy" tvg-name="Eurosport 1 Daddy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Italy",Eurosport 1 Daddy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dlive.sx/
-https://daddy-deploy.simo-scorrano-11.workers.dev/?u=https%3A%2F%2Fedge.cowedd4855ws.sbs%2Fpremium878%2Findex.m3u8%3F_%3D1791658899141
+https://daddy-deploy.simo-scorrano-11.workers.dev/live?ch=878
 #EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Italy",Eurosport 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
@@ -214,7 +214,7 @@ http://93.123.109.95:8008/sunshine/jb_bQI750f1KwKPHgAWvgK6hahPmqbrB_cyXWr7eMq3AS
 #EXTINF:-1 tvg-id="Eurosport 2 Daddy" tvg-name="Eurosport 2 Daddy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Italy",Eurosport 2 Daddy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dlive.sx/
-https://daddy-deploy.simo-scorrano-11.workers.dev/?u=https%3A%2F%2Fedge.cowedd4855ws.sbs%2Fpremium879%2Findex.m3u8%3F_%3D1791658900076
+https://daddy-deploy.simo-scorrano-11.workers.dev/live?ch=879
 #EXTINF:-1 tvg-name="Alma TV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" tvg-id="AlmaTV.it" tvg-chno="65" tvg-country="IT" group-title="Italy",Alma TV
 https://5f11919dca3bd.streamlock.net/almatv/almatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio 105 TV" tvg-logo="https://i.imgur.com/3NiLKvj.png" tvg-id="Radio105TV.it" tvg-chno="66" tvg-country="IT" group-title="Italy",Radio 105 TV Ⓖ
