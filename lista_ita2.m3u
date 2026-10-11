@@ -175,62 +175,46 @@ http://109.205.187.47:8008/sunshine/msv2Kj2T8GjPbKuMVv8oX3UhBdZFMhaAuPXXopI8v-la
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dlive.sx/
 https://daddy-deploy.simo-scorrano-11.workers.dev/?u=https%3A%2F%2Fedge.cowedd4855ws.sbs%2Fpremium875%2Findex.m3u8%3F_%3D1791658893286
-#EXTINF:-1 tvg-name="SKY SPORT SERIE A .c" group-title="Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" tvg-id="skysportcalcio.it",SKY SPORT SERIE A .c
+#EXTINF:-1 tvg-id="Sky Sport Serie A" tvg-name="Sky Sport Serie A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Italy",Sky Sport Serie A
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
-https://boldsnowflake-bcef0.app.onebit.ng/stream/c20f2d93bfecb9e528d79e
-#EXTINF:-1 tvg-name="SKY SPORT TENNIS .c" group-title="Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" tvg-id="skysporttennis.it",SKY SPORT TENNIS .c
+http://45.148.10.140:8008/sunshine/8Q8M8IThVxX6Z00XW3iEeC6rDaRaw5x7hRhSKASb5KxN_tiI84FL67wA47yifpGSxzZoovUjMmkjKKUm94hXLABBectYJIu6zUyeWi7SC3oWz1EIBRr1OEyuYfvdxaXr9OOcACn-o-2LbUtmeU1lcziOkO5IDcdicxLdY2Xv6ckHVCL3bw42OSHZNDRoN7qR043JqZslsNkjIfOUEVGbjrla6WRMZWEV-2hrgk-Pkml5on-1LF08lT50H9PaFEZfvvulTlPZKsLxYXcrKe8bAnB8CHDWNXnZPnYcZjS2llY/hls/index.m3u8
+#EXTINF:-1 tvg-id="Sky Sport Tennis" tvg-name="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Italy",Sky Sport Tennis
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
-https://boldsnowflake-bcef0.app.onebit.ng/stream/04c9984557d06ff1b09643
-#EXTINF:-1 tvg-name="SKY SPORT TENNIS .s" group-title="Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" tvg-id="skysporttennis.it",SKY SPORT TENNIS .s
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://boldsnowflake-bcef0.app.onebit.ng/stream/2ce4b2859e509d3c515019
+http://93.123.109.95:8008/sunshine/iFgnlaKj1v1s4jdrJhR5uU-iFXBV8xpBm-o_Y2WzXbSDqNxzbvex7IJeKAXnxlB8ztzH3bXYil7zl2PwOkZZZSG1HBAarrsoDPyccV1MCDpwHqVaDfTkss4NvFBLSk-bSj-vmtz32cXYtjNOrwpxsY6XJtwhrM-139PgVd14mxnt0KzAKoMlQBXN4ZMSOR-tKqlfREC5u2MzdvvhhL8RdPuw8a-2ArdyQM4WPzwNZwLKJw8FECYhUGaK4YkK9zU0jX932HouxEdyGinEFFQ4RFkLGBmE4SAG1PDNCoA_veY/hls/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Tennis Daddy" tvg-name="Sky Sport Tennis Daddy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Italy",Sky Sport Tennis Daddy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dlive.sx/
 https://daddy-deploy.simo-scorrano-11.workers.dev/?u=https%3A%2F%2Fedge.cowedd4855ws.sbs%2Fpremium576%2Findex.m3u8%3F_%3D1791658891275
-#EXTINF:-1 tvg-name="SKY SPORT UNO .c" group-title="Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" tvg-id="skysportuno.it",SKY SPORT UNO .c
+#EXTINF:-1 tvg-id="Sky Sport Uno" tvg-name="Sky Sport Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Italy",Sky Sport Uno
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
-https://boldsnowflake-bcef0.app.onebit.ng/stream/2347b4891a8cdbd882c1df
-#EXTINF:-1 tvg-name="SKY SPORT UNO .s" group-title="Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" tvg-id="skysportuno.it",SKY SPORT UNO .s
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://boldsnowflake-bcef0.app.onebit.ng/stream/fe22991a3de1a45fa06285
+https://qldtgxziwdu7poz.fu8oefd4v2dvlmaarur6crfp.com/sunshine/wT9smx-nI1gR2ns_Tiizokt8D3QSEjGD_W7KQ5MaXllQaObfwe4ZWz2ExJafkmK06c6MBSQ_kxFr_dnR_2UhBvKBEQiRZ32YiagxKG_nZ-eRCsIga7SBMXzNZU7zqEeNi1vyf0CWnGfT_6r0856lYG5Z542L3VxMlTZtUcTSP-JB3GLXePzKVMk0a32BkSuIUqbGjxlSFC-DMejeFW00AGDHuDG7_P48rR0I7dZce0H-ppDh8zDQUfoMkkPV6Zr1TnveYln2tVEm8JmxGQccNyV827Qxkg_vZ7Nv3iguzC0/hls/index.m3u8
 #EXTINF:-1 tvg-id="Sky Sport Uno Daddy" tvg-name="Sky Sport Uno Daddy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Italy",Sky Sport Uno Daddy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dlive.sx/
 https://daddy-deploy.simo-scorrano-11.workers.dev/?u=https%3A%2F%2Fedge.cowedd4855ws.sbs%2Fpremium461%2Findex.m3u8%3F_%3D1791658889289
-#EXTINF:-1 tvg-name="DAZN 1 .c" group-title="Italy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/DAZN_1_logo.png" tvg-id="dazn1.it",DAZN 1 .c
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/DAZN_1_logo.png" group-title="Italy",DAZN 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
-https://boldsnowflake-bcef0.app.onebit.ng/stream/65c62c352571cd39124f8e
+http://45.148.10.140:8008/sunshine/8F-Sz0-e6HH3-NgQbQAf7IQcyYfDmIxFbtHZNDcXCDbVpyx-oFlzzYIZxSANj_fGWQQBgHIhFcWVkgKZz7KC7bJiVJLVstgRQRP1LGVXgpw3Yb-43YmL30tzQUTPs2dgPEN-Qzx-enjnF0hQsiDaHmM_4Y4DgSNOC1mwCJbfWgtB3QuqdP_TrjIFZ_Cu-ifCwlqbsVB6lr2np5a0t-YYjYv8S2s4VoiQynwg_V0bMWj7yRQGHrJ5612qlnEsSAKxKtS8gtWrGE3AXZ3vBqnKOo6-rGWsMUofPEvVYh1zcrA/hls/index.m3u8
 #EXTINF:-1 tvg-id="DAZN 1 Daddy" tvg-name="DAZN 1 Daddy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/DAZN_1_logo.png" group-title="Italy",DAZN 1 Daddy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dlive.sx/
 https://daddy-deploy.simo-scorrano-11.workers.dev/?u=https%3A%2F%2Fedge.cowedd4855ws.sbs%2Fpremium877%2Findex.m3u8%3F_%3D1791658898250
-#EXTINF:-1 tvg-name="EUROSPORT 1 .c" group-title="Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" tvg-id="eurosport1.it",EUROSPORT 1 .c
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Italy",Eurosport 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
-https://boldsnowflake-bcef0.app.onebit.ng/stream/8a6e8876b2cc7cfd7d47f5
-#EXTINF:-1 tvg-name="EUROSPORT 1 .s" group-title="Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" tvg-id="eurosport1.it",EUROSPORT 1 .s
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://boldsnowflake-bcef0.app.onebit.ng/stream/c0076c941c792dddecc9aa
+https://qldtgxziwdu7poz.fu8oefd4v2dvlmaarur6crfp.com/sunshine/hmoqvES5o6qNySUrUAhhCgz7vos1EPIOYe3dZWtznejzDkouCd7rhH2DfIr6cxBZ-n-bh3xRZWRnMm1jxf-hP12nqQ71rHhJBTOhsYCXUHp3Qccjq5tJHw6tiHDD7weT8czN0289hRT5eWs_LDAZzI0Vz3V5iB-eQqMS8CkpvZzLbwTo_ql3Xc71mwK1OjO0XE8LqTlGndotA6DyLlnQzCIjkrEHtjDtQqGZ5apPpLz1ODbLj6CUnKnwLB3bSMutzOLEEtMBD5DAxF8e7obJHsOP7QR8IUfrs7aSPFW84y8/hls/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport 1 Daddy" tvg-name="Eurosport 1 Daddy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Italy",Eurosport 1 Daddy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dlive.sx/
 https://daddy-deploy.simo-scorrano-11.workers.dev/?u=https%3A%2F%2Fedge.cowedd4855ws.sbs%2Fpremium878%2Findex.m3u8%3F_%3D1791658899141
-#EXTINF:-1 tvg-name="EUROSPORT 2 .c" group-title="Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" tvg-id="eurosport2.it",EUROSPORT 2 .c
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Italy",Eurosport 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
-https://boldsnowflake-bcef0.app.onebit.ng/stream/43a39475110060f5b04689
-#EXTINF:-1 tvg-name="EUROSPORT 2 .s" group-title="Italy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" tvg-id="eurosport2.it",EUROSPORT 2 .s
-#EXTVLCOPT:http-user-agent=VAVOO/2.6
-#EXTVLCOPT:no-ssl-verify
-https://boldsnowflake-bcef0.app.onebit.ng/stream/494d8bce5db63e4ef65ab1
+http://93.123.109.95:8008/sunshine/jb_bQI750f1KwKPHgAWvgK6hahPmqbrB_cyXWr7eMq3ASguOKQqoDF6YCtGZn8j0ti5Fj6-sAspgBkCrc184jyUassoHQFifHv9ESphluqcLiQVhcTE5QELRjUJJgaphRGtaa9ERTc1dn0x78ArWeN3Mxkg6llp-OjLFPuN0fqNLS7DkloErJpohIrDcMUygibyIio76PYpCoxEQXLxdJoUMd_haxEXHBmVV8vBtVamcV4PH2i3z5UZHGmHvvDu9W9i3kxM3VaTETovqtWE60EpovSyw0xQntsRXNTN2o4E/hls/index.m3u8
 #EXTINF:-1 tvg-id="Eurosport 2 Daddy" tvg-name="Eurosport 2 Daddy" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Italy",Eurosport 2 Daddy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dlive.sx/
