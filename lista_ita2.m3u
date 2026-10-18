@@ -199,6 +199,9 @@ https://simone11.val.run/vavoo-stream/live?ch=dazn%201
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dlive.sx/
 https://simo11.val.run/daddy-stream/live?ch=877
+#EXTINF:-1 tvg-id="DAZN Daddy" tvg-name="DAZN Daddy" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/DAZN_1_logo.png" group-title="Italy",DAZN Daddy
+#EXTVLCOPT:network-caching=10000
+https://simo11.val.run/daddy-stream/live?ch=176
 #EXTINF:-1 tvg-id="Eurosport 1" tvg-name="Eurosport 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Italy",Eurosport 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
 #EXTVLCOPT:no-ssl-verify
@@ -215,6 +218,15 @@ https://simone11.val.run/vavoo-stream/live?ch=eurosport%202
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://dlive.sx/
 https://simo11.val.run/daddy-stream/live?ch=879
+#EXTINF:-1 tvg-id="Sky Calcio 251 Daddy" tvg-name="Sky Calcio 251 Daddy" tvg-logo="https://www.tvlogo.org/italy/sky-sport-it.png" group-title="Italy",Sky Calcio 251 Daddy
+#EXTVLCOPT:network-caching=10000
+https://simo11.val.run/daddy-stream/live?ch=871
+#EXTINF:-1 tvg-id="Sky Calcio 252 Daddy" tvg-name="Sky Calcio 252 Daddy" tvg-logo="https://www.tvlogo.org/italy/sky-sport-it.png" group-title="Italy",Sky Calcio 252 Daddy
+#EXTVLCOPT:network-caching=10000
+https://simo11.val.run/daddy-stream/live?ch=872
+#EXTINF:-1 tvg-id="Sky Calcio 253 Daddy" tvg-name="Sky Calcio 253 Daddy" tvg-logo="https://www.tvlogo.org/italy/sky-sport-it.png" group-title="Italy",Sky Calcio 253 Daddy
+#EXTVLCOPT:network-caching=10000
+https://simo11.val.run/daddy-stream/live?ch=873
 #EXTINF:-1 tvg-name="Alma TV" tvg-logo="https://i.imgur.com/Y8JiDwN.png" tvg-id="AlmaTV.it" tvg-chno="65" tvg-country="IT" group-title="Italy",Alma TV
 https://5f11919dca3bd.streamlock.net/almatv/almatv/playlist.m3u8
 #EXTINF:-1 tvg-name="Radio 105 TV" tvg-logo="https://i.imgur.com/3NiLKvj.png" tvg-id="Radio105TV.it" tvg-chno="66" tvg-country="IT" group-title="Italy",Radio 105 TV Ⓖ
