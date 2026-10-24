@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
-"""Corregge i tvg-id di lista_ita2.m3u nel namespace epg.lat e aggiorna
-l'x-tvg-url. Idempotente: rigira quante volte vuoi, tocca solo cio' che
-non va. I generalisti (Rai/Mediaset/La7...) hanno gia' ID coincidenti:
-li lasciamo in pace. Mappa: canali sportivi + le poche correzioni."""
-
+"""Corregge i tvg-id di lista_ita2.m3u nel namespace epg.lat e punta
+l'x-tvg-url all'EPG fuso del repo (epg.lat + epgshare01). Idempotente."""
 
 import re
 from pathlib import Path
@@ -11,7 +8,6 @@ from pathlib import Path
 M3U = Path("lista_ita2.m3u")
 
 MAPPING = {
-    # Sky Sport (vavoo + Daddy + NTV)
     "Sky Sport 24": "Sky.Sport.24.it",
     "Sky Sport 24 Daddy": "Sky.Sport.24.it",
     "Sky Sport 24 NTV": "Sky.Sport.24.it",
@@ -43,19 +39,16 @@ MAPPING = {
     "Sky Sport Golf Daddy": "Sky.Sport.Golf.it",
     "Sky Sport Golf NTV": "Sky.Sport.Golf.it",
     "Sky Sport Serie A": "Sky.Sport.Calcio.it",
-    # DAZN
     "DAZN 1": "DAZN.1.it.it",
     "DAZN 1 Daddy": "DAZN.1.it.it",
     "Dazn": "DAZN.1.it.it",
     "Dazn 2": "DAZN.2.it.it",
-    # Eurosport
     "Eurosport 1": "Eurosport.Italia.it",
     "Eurosport 1 Daddy": "Eurosport.Italia.it",
     "Eurosport 1 NTV": "Eurosport.Italia.it",
     "Eurosport 2": "Eurosport.2.Italia.it",
     "Eurosport 2 Daddy": "Eurosport.2.Italia.it",
     "Eurosport 2 NTV": "Eurosport.2.Italia.it",
-    # Sky Calcio / altri
     "Sky Calcio 251 Daddy": "Sky.Sport..251.it",
     "Sky Calcio 251 NTV": "Sky.Sport..251.it",
     "Sky Calcio 252 Daddy": "Sky.Sport..252.it",
@@ -63,13 +56,17 @@ MAPPING = {
     "Sky Calcio 253 Daddy": "Sky.Sport..253.it",
     "Sky Calcio 253 NTV": "Sky.Sport..253.it",
     "Sky TG24": "Sky.TG24.it",
-    # correzioni generalisti
     "SuperTennis": "SuperTennis.HD.it",
     "27 Twentyseven": "27.Twentyseven.it",
     "27": "27.Twentyseven.it",
 }
 
-XTVG = '#EXTM3U x-tvg-url="https://raw.githubusercontent.com/simone8711/epg/main/epg.xml.gz"'
+XTVG = '#EXTM3U x-tvg-url="https://raw.githubusercontent.com/simone8711/lista/main/epg.xml.gz"'
+
+
+def display_name(line: str) -> str:
+    """Nome mostrato dopo l'ultima virgola (funziona anche senza tvg-name)."""
+    return line.rsplit(",", 1)[-1].strip()
 
 
 def main():
@@ -77,7 +74,6 @@ def main():
     lines = text.split("\n")
     fixed = 0
 
-    # header: forza x-tvg-url epg.lat
     for i, ln in enumerate(lines):
         if ln.startswith("#EXTM3U"):
             lines[i] = XTVG
@@ -87,9 +83,7 @@ def main():
         if not ln.startswith("#EXTINF"):
             continue
         m = re.search(r'tvg-name="([^"]+)"', ln)
-        if not m:
-            continue
-        name = m.group(1)
+        name = m.group(1) if m else display_name(ln)
         new_id = MAPPING.get(name)
         if not new_id:
             continue
@@ -102,7 +96,7 @@ def main():
         fixed += 1
 
     M3U.write_text("\n".join(lines), encoding="utf-8")
-    print(f"tvg-id corretti: {fixed} | x-tvg-url: epg.lat")
+    print(f"tvg-id corretti: {fixed} | x-tvg-url: epg.xml.gz (fuso)")
 
 
 if __name__ == "__main__":
