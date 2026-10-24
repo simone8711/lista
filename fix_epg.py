@@ -69,7 +69,7 @@ MAPPING = {
     "27": "27.Twentyseven.it",
 }
 
-XTVG = '#EXTM3U x-tvg-url="https://epg.lat/files/it.xml.gz"'
+XTVG = '#EXTM3U x-tvg-url="https://raw.githubusercontent.com/simone8711/epg/main/epg.xml.gz"'
 
 
 def main():
