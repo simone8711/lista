@@ -2,7 +2,6 @@ name: Fix EPG ids
 on:
   push:
     branches: [main]
-    paths: ["lista_ita2.m3u"]
   schedule: [{ cron: "7 5 * * *" }]
   workflow_dispatch:
 permissions: { contents: write }
@@ -18,5 +17,5 @@ jobs:
         run: |
           git config user.name "epg-bot"
           git config user.email "bot@users.noreply.github.com"
-          git add -A
-          git diff --cached --quiet && echo "no changes" || (git commit --no-verify -m "epg: tvg-id epg.lat" && git push)
+          git add lista_ita2.m3u
+          git diff --cached --quiet && echo "no changes" || (git commit --no-verify -m "epg: tvg-id corretti" && git push)
