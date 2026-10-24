@@ -1,9 +1,10 @@
 #!/usr/bin/env python3
 """Fonde le guide EPG in un unico XMLTV:
 - epg.lat (Italia: Sky/DAZN/Eurosport)
-- epgshare01 IT1 + IT2 (lacune italiane, TV regionali)
+- epgshare01 IT1 + IT2 (generalisti e TV regionali)
 - epgshare01 CH (RSI e svizzeri)
-- Zappr EPG DTT (Italian Fishing TV, TV regionali; URL multipli candidati)
+- Zappr EPG DTT (candidati multipli)
+- open-epg Italia (Italian Fishing TV + rete di sicurezza, 306 canali)
 Su collisioni vince la fonte piu' in alto. Scrive epg.xml.gz e channels.txt."""
 
 import gzip
@@ -22,6 +23,11 @@ SOURCES = [
         "https://raw.githubusercontent.com/ZapprTV/EPG/main/output/epg.xml.gz",
         "https://raw.githubusercontent.com/ZapprTV/EPG/gh-pages/it/dtt/epg.xml.gz",
         "https://raw.githubusercontent.com/ZapprTV/EPG/main/epg.xml.gz",
+    ], False),
+    ([
+        "https://www.open-epg.com/files/it.xml.gz",
+        "https://www.open-epg.com/files/epg-it.xml.gz",
+        "https://www.open-epg.com/files/italy.xml.gz",
     ], False),
 ]
 
@@ -92,3 +98,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+    
