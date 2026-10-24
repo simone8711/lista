@@ -3,8 +3,7 @@
 Tre livelli per canale:
 1) MAPPING esatto (canali multi-sorgente con suffissi Daddy/NTV)
 2) AUTO-MATCH: confronto fuzzy del nome con TUTTI i canali di channels.txt
-   (l'EPG fuso) -> assegna tvg-id + tvg-name da solo (stile m3u4u)
-3) tvg-name di sistema ovunque manchi (TiviMate matcha sull'EPG col tvg-name)
+3) tvg-name di sistema ovunque manchi (TiviMate matcha l'EPG col tvg-name)
 Idempotente. Stampa i nomi rimasti scoperti."""
 
 import re
@@ -70,7 +69,7 @@ MAPPING = {
     "SuperTennis": "SuperTennis.HD.it",
     "27 Twentyseven": "27.Twentyseven.it",
     "27": "27.Twentyseven.it",
-    "Italian Fishing TV": "Italian.Fishing.TV.it",
+    "Italian Fishing TV": "ItalianFishingTV.it",
 }
 
 XTVG = '#EXTM3U x-tvg-url="https://raw.githubusercontent.com/simone8711/lista/main/epg.xml.gz"'
@@ -89,7 +88,6 @@ def display_name(line: str) -> str:
 
 
 def load_epg_index():
-    """id normalizzato -> (tvg_id, nome_display) da channels.txt"""
     idx = {}
     if not CH.exists():
         return idx
@@ -147,7 +145,6 @@ def main():
                 base = re.sub(r"\s+(NTV|Daddy)$", "", name)
                 lines[i] = lines[i].replace("#EXTINF:-1 ", f'#EXTINF:-1 tvg-name="{base}" ', 1)
             continue
-        # AUTO-MATCH con l'EPG fuso
         am = auto_match(name, idx)
         if am:
             cid, disp = am
@@ -175,3 +172,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+   
