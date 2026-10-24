@@ -97,7 +97,7 @@ https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
 https://5f11919dca3bd.streamlock.net/donnatv/donnatv/playlist.m3u8
 #EXTINF:-1 tvg-name="SuperTennis" tvg-logo="https://i.imgur.com/GzsPlbX.png" tvg-id="SuperTennis.HD.it" tvg-chno="64" tvg-country="IT" group-title="Italy",SuperTennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-#EXTINF:-1 tvg-name="Italian Fishing TV" tvg-logo="https://i.imgur.com/Q0jHCdC.png" tvg-id="Italian.Fishing.TV.it" tvg-chno="4516" group-title="Italy",Italian Fishing TV
+#EXTINF:-1 tvg-name="Italian Fishing TV" tvg-logo="https://i.imgur.com/Q0jHCdC.png" tvg-id="ItalianFishingTV.it" tvg-chno="4516" group-title="Italy",Italian Fishing TV
 https://fms.premio.link/fishingtv/playlist.m3u8
 #EXTINF:-1 tvg-id="RSI.La.1.ch" tvg-name="RSI La 1" tvg-logo="https://i.imgur.com/j8ogbli.png" group-title="Italy",RSI La 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
