@@ -1,7 +1,8 @@
 #!/usr/bin/env python3
-"""Fonde le guide EPG in un unico XMLTV: epg.lat (Italia, Sky/DAZN/Eurosport)
-+ epgshare01 (riempie le lacune: Paramount, Sportitalia, TV locali).
-Su collisioni vince epg.lat. Output: epg.xml + epg.xml.gz nel repo."""
+"""Fonde le guide EPG in un unico XMLTV: epg.lat (Italia Sky/DAZN/Eurosport)
++ epgshare01 IT (lacune italiane) + epgshare01 CH (RSI e svizzeri).
+Su collisioni vince la fonte piu' in alto. Scrive anche channels.txt
+(id|nome di tutti i canali) per completare le mappe tvg-id."""
 
 import gzip
 import re
@@ -9,11 +10,13 @@ import urllib.request
 from pathlib import Path
 
 SOURCES = [
-    ("https://epg.lat/files/it.xml.gz", True),       # priorita'
+    ("https://epg.lat/files/it.xml.gz", True),
     ("https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz", False),
+    ("https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz", False),
 ]
 
 OUT_GZ = Path("epg.xml.gz")
+OUT_CH = Path("channels.txt")
 
 
 def fetch(url: str) -> str:
@@ -25,18 +28,24 @@ def fetch(url: str) -> str:
 def main():
     channels: list = []
     programmes: list = []
+    names: list = []
     seen: set = set()
-    stats = []
 
     for url, _prio in SOURCES:
-        xml = fetch(url)
+        try:
+            xml = fetch(url)
+        except Exception as e:
+            print(f"WARN: {url} fallito: {e}")
+            continue
         n_ch = n_pg = 0
-        for m in re.finditer(r'<channel id="([^"]+)"[^>]*>.*?</channel>', xml, re.S):
-            cid, block = m.group(1), m.group(0)
+        for m in re.finditer(r'<channel id="([^"]+)"[^>]*>(.*?)</channel>', xml, re.S):
+            cid, body = m.group(1), m.group(0)
             if cid in seen:
                 continue
             seen.add(cid)
-            channels.append(block)
+            channels.append(body)
+            nm = re.search(r'<display-name[^>]*>([^<]+)</display-name>', body)
+            names.append(f"{cid} | {nm.group(1).strip() if nm else '?'}")
             n_ch += 1
         for m in re.finditer(r'(<programme\b[^>]*>.*?</programme>)', xml, re.S):
             block = m.group(1)
@@ -45,17 +54,17 @@ def main():
                 continue
             programmes.append(block)
             n_pg += 1
-        stats.append(f"{url.split('/')[2]}: {n_ch} canali, {n_pg} programmi")
-        print(" | ".join(stats[-1:]))
+        print(f"{url.split('/')[2]}{url[url.rfind('/'):]}: {n_ch} canali, {n_pg} programmi")
 
     head = ('<?xml version="1.0" encoding="UTF-8"?>\n'
-            '<tv generator-info-name="simone8711/epg merge" '
-            'generator-info-url="https://github.com/simone8711/epg">\n')
+            '<tv generator-info-name="simone8711/lista merge" '
+            'generator-info-url="https://github.com/simone8711/lista">\n')
     body = head + "\n".join(channels) + "\n" + "\n".join(programmes) + "\n</tv>\n"
 
     OUT_GZ.write_bytes(gzip.compress(body.encode("utf-8"), compresslevel=6))
+    OUT_CH.write_text("\n".join(sorted(names)) + "\n", encoding="utf-8")
     print(f"OK: epg.xml.gz = {OUT_GZ.stat().st_size // 1024} KB | "
-          f"totale {len(channels)} canali, {len(programmes)} programmi")
+          f"{len(channels)} canali, {len(programmes)} programmi | channels.txt aggiornato")
 
 
 if __name__ == "__main__":
