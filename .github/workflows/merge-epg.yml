@@ -23,6 +23,6 @@ jobs:
             git commit --amend --no-edit --no-verify
             git push --force-with-lease
           else
-            git commit --no-verify -m "epg: merge giornaliero epg.lat + epgshare01 + ch"
+            git commit --no-verify -m "epg: merge giornaliero epg.lat + epgshare01 + ch + zappr"
             git push
           fi
