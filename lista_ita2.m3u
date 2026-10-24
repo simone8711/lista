@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://epg.lat/files/it.xml.gz"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/simone8711/lista/main/epg.xml.gz"
 #EXTINF:-1 tvg-name="Rai 1" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-id="Rai1.it" tvg-chno="1" tvg-country="IT" group-title="Italy",Rai 1
 https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
 #EXTINF:-1 tvg-name="Rai 2" tvg-logo="https://i.imgur.com/zA0PTcs.png" tvg-id="Rai2.it" tvg-chno="2" tvg-country="IT" group-title="Italy",Rai 2
@@ -117,7 +117,7 @@ https://simone11.val.run/vavoo-stream/live?ch=sky%20sport%2024
 https://simo11.val.run/daddy-stream/live?ch=869
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:network-caching=15000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Italy",Sky Sport 24 NTV
+#EXTINF:-1 tvg-id="Sky.Sport.24.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-24-it.png" group-title="Italy",Sky Sport 24 NTV
 https://sim11.val.run/ntv-stream/live?ch=869
 #EXTINF:-1 tvg-id="Sky.Sport.Arena.it" tvg-name="Sky Sport Arena" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Italy",Sky Sport Arena
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -129,7 +129,7 @@ https://simone11.val.run/vavoo-stream/live?ch=sky%20sport%20arena
 https://simo11.val.run/daddy-stream/live?ch=462
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:network-caching=15000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Italy",Sky Sport Arena NTV
+#EXTINF:-1 tvg-id="Sky.Sport.Arena.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-arena-it.png" group-title="Italy",Sky Sport Arena NTV
 https://sim11.val.run/ntv-stream/live?ch=462
 #EXTINF:-1 tvg-id="Sky.Sport.Calcio.it" tvg-name="Sky Sport Calcio" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy",Sky Sport Calcio
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -141,7 +141,7 @@ https://simone11.val.run/vavoo-stream/live?ch=sky%20sport%20calcio
 https://simo11.val.run/daddy-stream/live?ch=870
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:network-caching=15000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy",Sky Sport Calcio NTV
+#EXTINF:-1 tvg-id="Sky.Sport.Calcio.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-calcio-it.png" group-title="Italy",Sky Sport Calcio NTV
 https://sim11.val.run/ntv-stream/live?ch=870
 #EXTINF:-1 tvg-id="Sky.Sport.F1.it" tvg-name="Sky Sport F1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Italy",Sky Sport F1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -153,7 +153,7 @@ https://simone11.val.run/vavoo-stream/live?ch=sky%20sport%20f1
 https://simo11.val.run/daddy-stream/live?ch=577
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:network-caching=15000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Italy",Sky Sport F1 NTV
+#EXTINF:-1 tvg-id="Sky.Sport.F1.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-f1-it.png" group-title="Italy",Sky Sport F1 NTV
 https://sim11.val.run/ntv-stream/live?ch=577
 #EXTINF:-1 tvg-id="Sky.Sport.Golf.it" tvg-name="Sky Sport Golf" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Italy",Sky Sport Golf
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -165,7 +165,7 @@ https://simone11.val.run/vavoo-stream/live?ch=sky%20sport%20golf
 https://simo11.val.run/daddy-stream/live?ch=574
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:network-caching=15000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Italy",Sky Sport Golf NTV
+#EXTINF:-1 tvg-id="Sky.Sport.Golf.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-golf-it.png" group-title="Italy",Sky Sport Golf NTV
 https://sim11.val.run/ntv-stream/live?ch=574
 #EXTINF:-1 tvg-id="Sky.Sport.Max.it" tvg-name="Sky Sport Max" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Italy",Sky Sport Max
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -177,7 +177,7 @@ https://simone11.val.run/vavoo-stream/live?ch=sky%20sport%20max
 https://simo11.val.run/daddy-stream/live?ch=460
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:network-caching=15000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Italy",Sky Sport Max NTV
+#EXTINF:-1 tvg-id="Sky.Sport.Max.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-max-it.png" group-title="Italy",Sky Sport Max NTV
 https://sim11.val.run/ntv-stream/live?ch=460
 #EXTINF:-1 tvg-id="Sky.Sport.MotoGP.it" tvg-name="Sky Sport MotoGP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Italy",Sky Sport MotoGP
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -189,7 +189,7 @@ https://simone11.val.run/vavoo-stream/live?ch=sky%20sport%20motogp
 https://simo11.val.run/daddy-stream/live?ch=575
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:network-caching=15000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Italy",Sky Sport MotoGP NTV
+#EXTINF:-1 tvg-id="Sky.Sport.MotoGP.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-motogp-it.png" group-title="Italy",Sky Sport MotoGP NTV
 https://sim11.val.run/ntv-stream/live?ch=575
 #EXTINF:-1 tvg-id="Sky.Sport.NBA.it" tvg-name="Sky Sport Basket" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Italy",Sky Sport Basket
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -201,7 +201,7 @@ https://simone11.val.run/vavoo-stream/live?ch=sky%20sport%20basket
 https://simo11.val.run/daddy-stream/live?ch=875
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:network-caching=15000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Italy",Sky Sport Basket NTV
+#EXTINF:-1 tvg-id="Sky.Sport.NBA.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-nba-it.png" group-title="Italy",Sky Sport Basket NTV
 https://sim11.val.run/ntv-stream/live?ch=875
 #EXTINF:-1 tvg-id="Sky.Sport.Calcio.it" tvg-name="Sky Sport Serie A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Italy",Sky Sport Serie A
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -217,7 +217,7 @@ https://simone11.val.run/vavoo-stream/live?ch=sky%20sport%20tennis
 https://simo11.val.run/daddy-stream/live?ch=576
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:network-caching=15000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Italy",Sky Sport Tennis NTV
+#EXTINF:-1 tvg-id="Sky.Sport.Tennis.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Italy",Sky Sport Tennis NTV
 https://sim11.val.run/ntv-stream/live?ch=576
 #EXTINF:-1 tvg-id="Sky.Sport.Uno.it" tvg-name="Sky Sport Uno" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Italy",Sky Sport Uno
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -229,7 +229,7 @@ https://simone11.val.run/vavoo-stream/live?ch=sky%20sport%20uno
 https://simo11.val.run/daddy-stream/live?ch=461
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:network-caching=15000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Italy",Sky Sport Uno NTV
+#EXTINF:-1 tvg-id="Sky.Sport.Uno.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-uno-it.png" group-title="Italy",Sky Sport Uno NTV
 https://sim11.val.run/ntv-stream/live?ch=461
 #EXTINF:-1 tvg-id="DAZN.1.it.it" tvg-name="DAZN 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7c/DAZN_1_logo.png" group-title="Italy",DAZN 1
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -253,7 +253,7 @@ https://simone11.val.run/vavoo-stream/live?ch=eurosport%201
 https://simo11.val.run/daddy-stream/live?ch=878
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:network-caching=15000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Italy",Eurosport 1 NTV
+#EXTINF:-1 tvg-id="Eurosport.Italia.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-1-es.png" group-title="Italy",Eurosport 1 NTV
 https://sim11.val.run/ntv-stream/live?ch=878
 #EXTINF:-1 tvg-id="Eurosport.2.Italia.it" tvg-name="Eurosport 2" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Italy",Eurosport 2
 #EXTVLCOPT:http-user-agent=VAVOO/2.6
@@ -265,7 +265,7 @@ https://simone11.val.run/vavoo-stream/live?ch=eurosport%202
 https://simo11.val.run/daddy-stream/live?ch=879
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #EXTVLCOPT:network-caching=15000
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Italy",Eurosport 2 NTV
+#EXTINF:-1 tvg-id="Eurosport.2.Italia.it" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/eurosport-2-es.png" group-title="Italy",Eurosport 2 NTV
 https://sim11.val.run/ntv-stream/live?ch=879
 #EXTINF:-1 tvg-id="Sky.Sport..251.it" tvg-name="Sky Calcio 251 Daddy" tvg-logo="https://www.tvlogo.org/italy/sky-sport-it.png" group-title="Italy",Sky Calcio 251 Daddy
 #EXTVLCOPT:network-caching=10000
