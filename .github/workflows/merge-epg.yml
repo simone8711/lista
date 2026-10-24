@@ -1,7 +1,5 @@
 name: Merge EPG
 on:
-  push:
-    branches: [main]
   schedule: [{ cron: "23 3 * * *" }]
   workflow_dispatch:
 permissions: { contents: write }
