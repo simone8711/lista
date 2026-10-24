@@ -1,0 +1,22 @@
+name: Fix EPG ids
+on:
+  push:
+    branches: [main]
+    paths: ["lista_ita2.m3u"]
+  schedule: [{ cron: "7 5 * * *" }]
+  workflow_dispatch:
+permissions: { contents: write }
+jobs:
+  fix:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - run: python fix_epg.py
+      - name: Commit
+        run: |
+          git config user.name "epg-bot"
+          git config user.email "bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet && echo "no changes" || (git commit --no-verify -m "epg: tvg-id epg.lat" && git push)
