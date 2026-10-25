@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Fonde le guide EPG in un unico XMLTV. Ordine = priorita': epg.lat ed
-epgshare01 prima (le playlist usano i loro ID); le altre fonti riempiono
-i buchi. Rytec incluso per l'ID ITFISH.it (Italian Fishing TV, come m3u4u)."""
+epgshare01 prima (le playlist usano i loro ID); le fonti in fondo riempiono
+solo i buchi (open-epg, free-epg, Rytec, iptv-epg.org = ID stile ITFISH.it)."""
 
 import gzip
 import re
@@ -21,6 +21,10 @@ SOURCES = [
     ], False),
     ([
         "https://free-epg.de/api/epg/rytec/it.xml.gz",
+    ], False),
+    ([
+        "https://iptv-epg.org/files/epg-it.xml.gz",
+        "https://iptv-epg.org/files/epg-it.xml",
     ], False),
 ]
 
@@ -86,7 +90,6 @@ def main():
     OUT_GZ.write_bytes(gzip.compress(body.encode("utf-8"), compresslevel=6))
     OUT_CH.write_text("\n".join(sorted(names)) + "\n", encoding="utf-8")
 
-    # ★ verifica finale: programmi presenti per i canali fishing
     for probe in ("ITFISH.it", "ItalianFishingTV.it"):
         n = len(re.findall(r'<programme[^>]*channel="' + re.escape(probe) + r'"', body))
         print(f"fishing {probe}: {n} programmi nel file")
