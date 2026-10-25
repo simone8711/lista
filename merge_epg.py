@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Fonde le guide EPG in un unico XMLTV. Ordine = priorita' (il primo che
 ha un canale, vince): epg.lat ed epgshare01 vengono prima perche' le playlist
-usa i LORO id (Sky.Sport.*, DAZN.*); le altre fonti riempiono solo i buchi."""
+usano i LORO id (Sky.Sport.*, DAZN.*); le altre fonti riempiono i buchi."""
 
 import gzip
 import re
@@ -49,7 +49,8 @@ def main():
 
     def ingest(xml: str):
         n_ch = n_pg = 0
-        for m in re.finditer(r'<channel id="([^"]+)"[^>]*>(.*?)</channel>', xml, re.S):
+        # ★ regex robusto: l'id puo' stare in qualsiasi posizione nel tag
+        for m in re.finditer(r'<channel\b[^>]*?\bid="([^"]+)"[^>]*>(.*?)</channel>', xml, re.S):
             cid, body = m.group(1), m.group(0)
             if cid in seen:
                 continue
@@ -83,10 +84,14 @@ def main():
             continue
         ingest(xml)
 
-    # rete di sicurezza: snapshot locale nel repo
+    # rete di sicurezza: snapshot locale (se presente e valido)
     if LOCAL.exists():
         try:
-            xml = gzip.decompress(LOCAL.read_bytes()).decode("utf-8", "ignore")
+            raw = LOCAL.read_bytes()
+            try:
+                xml = gzip.decompress(raw).decode("utf-8", "ignore")
+            except OSError:
+                xml = raw.decode("utf-8", "ignore")
             print("fonte OK: epg-local.gz (repo)")
             ingest(xml)
         except Exception as e:
