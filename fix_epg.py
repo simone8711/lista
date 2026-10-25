@@ -1,10 +1,7 @@
 #!/usr/bin/env python3
 """Corregge i tvg-id di lista_ita2.m3u e punta l'x-tvg-url all'EPG fuso.
-Tre livelli per canale:
-1) MAPPING esatto (canali multi-sorgente con suffissi Daddy/NTV)
-2) AUTO-MATCH: confronto fuzzy del nome con TUTTI i canali di channels.txt
-3) tvg-name di sistema ovunque manchi (TiviMate matcha l'EPG col tvg-name)
-Idempotente. Stampa i nomi rimasti scoperti."""
+Livelli: MAPPING esatto -> AUTO-MATCH fuzzy (soglia 0.65, suffissi HD/TV
+rimossi) -> tvg-name di sistema ovunque manchi. Idempotente."""
 
 import re
 from pathlib import Path
@@ -13,6 +10,7 @@ M3U = Path("lista_ita2.m3u")
 CH = Path("channels.txt")
 
 MAPPING = {
+    # Sky Sport (vavoo + Daddy + NTV)
     "Sky Sport 24": "Sky.Sport.24.it",
     "Sky Sport 24 Daddy": "Sky.Sport.24.it",
     "Sky Sport 24 NTV": "Sky.Sport.24.it",
@@ -44,6 +42,7 @@ MAPPING = {
     "Sky Sport Golf Daddy": "Sky.Sport.Golf.it",
     "Sky Sport Golf NTV": "Sky.Sport.Golf.it",
     "Sky Sport Serie A": "Sky.Sport.Calcio.it",
+    # DAZN / Eurosport
     "DAZN 1": "DAZN.1.it.it",
     "DAZN 1 Daddy": "DAZN.1.it.it",
     "Dazn": "DAZN.1.it.it",
@@ -54,6 +53,7 @@ MAPPING = {
     "Eurosport 2": "Eurosport.2.Italia.it",
     "Eurosport 2 Daddy": "Eurosport.2.Italia.it",
     "Eurosport 2 NTV": "Eurosport.2.Italia.it",
+    # Sky Calcio / Sky
     "Sky Calcio 251 Daddy": "Sky.Sport..251.it",
     "Sky Calcio 251 NTV": "Sky.Sport..251.it",
     "Sky Calcio 252 Daddy": "Sky.Sport..252.it",
@@ -61,10 +61,46 @@ MAPPING = {
     "Sky Calcio 253 Daddy": "Sky.Sport..253.it",
     "Sky Calcio 253 NTV": "Sky.Sport..253.it",
     "Sky TG24": "Sky.TG24.it",
+    "Sky Meteo": "Sky.Meteo24.it",
+    # RSI / svizzeri
     "RSI La 1": "RSI.La.1.ch",
     "RSI La 2": "RSI.LA.2.ch",
-    "TV2000": "TV2000.ch",
+    # radio-TV e generalisti (ID verificati su epgshare01 IT1)
+    "Radio 105": "Radio.105.it",
+    "Radio 105 TV": "Radio.105.it",
+    "RTL 102.5": "RTL.102.5.HD.it",
+    "RTL 102.5 TV": "RTL.102.5.HD.it",
+    "Deejay TV": "Deejay.TV.it",
+    "R101": "R101tv.it",
+    "R101 TV": "R101tv.it",
+    "Radiofreccia": "RADIOFRECCIA.HD.it",
+    "Radiofreccia TV": "RADIOFRECCIA.HD.it",
+    "Virgin Radio": "Virgin.Radio.it",
+    "Virgin Radio TV": "Virgin.Radio.it",
+    "Radio Norba": "RADIONORBA.TV.it",
+    "Radio Norba TV": "RADIONORBA.TV.it",
+    "Radio Italia TV": "Radio.Italia.TV.HD.it",
+    "Rai Radio 2": "RaiRadio2.it",
+    "RMC": "RMC.it",
+    "TG Norba 24": "TG.NORBA.24.it",
+    "TRM h24": "TRM.h24.it",
+    "San Marino RTV": "San.Marino.RTV.it",
+    "Caccia e Pesca": "Caccia.e.PESCA.it",
+    "Super!": "Super!.it",
+    "Mediaset Extra": "Mediaset.Extra.it",
+    "La 5": "La.5.it",
+    "Italia 2": "Italia.2.it",
+    "TGCOM 24": "TGCom.it",
+    "La7d": "LA7D.it",
+    "Cine34": "Cine34.it",
+    "Giallo": "Giallo.TV.it",
+    "Top Crime": "Top.Crime.it",
+    "Motor Trend": "Motor.Trend.it",
+    "MTV": "MTV.HD.it",
+    "DMAX": "DMAX.it",
+    "Warner TV": "Warner.TV.it",
     "Sportitalia": "Sportitalia.HD.it",
+    "TV2000": "TV2000.ch",
     "Paramount+": "Paramount+.ch",
     "SuperTennis": "SuperTennis.HD.it",
     "27 Twentyseven": "27.Twentyseven.it",
@@ -79,7 +115,8 @@ def norm(s: str) -> str:
     s = s.lower().strip()
     s = re.sub(r"[^\w\s]", " ", s, flags=re.UNICODE)
     s = re.sub(r"\s+", " ", s).strip()
-    s = re.sub(r"\bhd$", "", s).strip()
+    s = re.sub(r"\b(hd|tv)$", "", s).strip()
+    s = re.sub(r"\s+", " ", s).strip()
     return s
 
 
@@ -114,7 +151,7 @@ def auto_match(name: str, idx: dict):
         score = len(words & kw) / max(len(words), len(kw))
         if score > best_score:
             best, best_score = v, score
-    return best if best_score >= 0.75 else None
+    return best if best_score >= 0.65 else None
 
 
 def main():
@@ -172,4 +209,4 @@ def main():
 
 if __name__ == "__main__":
     main()
-   
+    
