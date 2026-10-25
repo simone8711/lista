@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
-"""Fonde le guide EPG in un unico XMLTV. Ordine = priorita' (il primo che
-ha un canale, vince): epg.lat ed epgshare01 vengono prima perche' le playlist
-usano i LORO id (Sky.Sport.*, DAZN.*); le altre fonti riempiono i buchi."""
+"""Fonde le guide EPG in un unico XMLTV. Ordine = priorita': epg.lat ed
+epgshare01 prima (le playlist usano i loro ID); le altre fonti riempiono
+i buchi. Rytec incluso per l'ID ITFISH.it (Italian Fishing TV, come m3u4u)."""
 
 import gzip
 import re
@@ -11,25 +11,21 @@ from pathlib import Path
 SOURCES = [
     ("https://epg.lat/files/it.xml.gz", True),
     ("https://epgshare01.online/epgshare01/epg_ripper_IT1.xml.gz", False),
-    ("https://epgshare01.online/epgshare01/epg_ripper_IT2.xml.gz", False),
     ("https://epgshare01.online/epgshare01/epg_ripper_CH1.xml.gz", False),
     ([
         "https://www.open-epg.com/files/it.xml.gz",
         "https://www.open-epg.com/files/epg-it.xml.gz",
     ], False),
     ([
-        "https://raw.githubusercontent.com/ZapprTV/EPG/main/output/it/dtt/epg.xml.gz",
-        "https://raw.githubusercontent.com/ZapprTV/EPG/main/output/it/epg.xml.gz",
+        "https://free-epg.de/api/epg/it.xml.gz",
     ], False),
     ([
-        "https://free-epg.de/api/epg/it.xml.gz",
         "https://free-epg.de/api/epg/rytec/it.xml.gz",
     ], False),
 ]
 
 OUT_GZ = Path("epg.xml.gz")
 OUT_CH = Path("channels.txt")
-LOCAL = Path("epg-local.gz")
 
 
 def fetch(url: str) -> str:
@@ -49,7 +45,6 @@ def main():
 
     def ingest(xml: str):
         n_ch = n_pg = 0
-        # ★ regex robusto: l'id puo' stare in qualsiasi posizione nel tag
         for m in re.finditer(r'<channel\b[^>]*?\bid="([^"]+)"[^>]*>(.*?)</channel>', xml, re.S):
             cid, body = m.group(1), m.group(0)
             if cid in seen:
@@ -84,27 +79,18 @@ def main():
             continue
         ingest(xml)
 
-    # rete di sicurezza: snapshot locale (se presente e valido)
-    if LOCAL.exists():
-        try:
-            raw = LOCAL.read_bytes()
-            try:
-                xml = gzip.decompress(raw).decode("utf-8", "ignore")
-            except OSError:
-                xml = raw.decode("utf-8", "ignore")
-            print("fonte OK: epg-local.gz (repo)")
-            ingest(xml)
-        except Exception as e:
-            print(f"WARN: epg-local.gz illeggibile ({e})")
-
     head = ('<?xml version="1.0" encoding="UTF-8"?>\n'
             '<tv generator-info-name="simone8711/lista merge" '
             'generator-info-url="https://github.com/simone8711/lista">\n')
     body = head + "\n".join(channels) + "\n" + "\n".join(programmes) + "\n</tv>\n"
     OUT_GZ.write_bytes(gzip.compress(body.encode("utf-8"), compresslevel=6))
     OUT_CH.write_text("\n".join(sorted(names)) + "\n", encoding="utf-8")
-    fishing = [n for n in names if "fish" in n.lower()]
-    print(f"canali fishing: {fishing if fishing else 'NESSUNO'}")
+
+    # ★ verifica finale: programmi presenti per i canali fishing
+    for probe in ("ITFISH.it", "ItalianFishingTV.it"):
+        n = len(re.findall(r'<programme[^>]*channel="' + re.escape(probe) + r'"', body))
+        print(f"fishing {probe}: {n} programmi nel file")
+
     print(f"OK: epg.xml.gz = {OUT_GZ.stat().st_size // 1024} KB | "
           f"{len(channels)} canali, {len(programmes)} programmi")
 
