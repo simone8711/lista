@@ -105,7 +105,7 @@ MAPPING = {
     "SuperTennis": "SuperTennis.HD.it",
     "27 Twentyseven": "27.Twentyseven.it",
     "27": "27.Twentyseven.it",
-    "Italian Fishing TV": "ITFISH.it",  
+    "Italian Fishing TV": "ItalianFishingTV.it",
 }
 
 XTVG = '#EXTM3U x-tvg-url="https://raw.githubusercontent.com/simone8711/lista/main/epg.xml.gz"'
