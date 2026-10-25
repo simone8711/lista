@@ -106,7 +106,7 @@ MAPPING = {
     "27 Twentyseven": "27.Twentyseven.it",
     "27": "27.Twentyseven.it",
     # Italian Fishing TV: ID Rytec/iptv-epg.org (come su m3u4u)
-    "Italian Fishing TV": "ITFISH.it",
+    "Italian Fishing TV": "IT600001L6",    
 }
 
 XTVG = '#EXTM3U x-tvg-url="https://raw.githubusercontent.com/simone8711/lista/main/epg.xml.gz"'
