@@ -525,6 +525,197 @@ INPLUS.ch | INPLUS
 INTER.SerieA | SERIEA - INTER
 INULTRA.ch | INULTRA
 IRIS.ch | IRIS
+IT1000001YA | SMTOWN
+IT1000002TG | Sportitalia
+IT1100001PZ | Top Barça
+IT1200001Q8 | Storie Criminali
+IT12000029J | Viaggi &amp; Sapori
+IT1200003NR | Quantum Makers
+IT1200004E6 | H2O &amp; Friends
+IT16000070D | Sportface
+IT1700002R5 | NEW KPOP
+IT18000033C | TV5 Monde Info
+IT18000058K | Rainy Day Vibes
+IT1800006P9 | Island Vibes
+IT18000076Y | Ocean Vibes
+IT1800008RR | Fall Vibes
+IT18000098G | The Boat Show
+IT1900005OP | Cozy Vibes
+IT1900006GN | Storm Vibes
+IT2000002D1 | CAR CITY ADVENTURES
+IT2000003B8 | Vita Da Strega
+IT20000053A | Tennis+
+IT2100001EZ | NatureTime
+IT2100003OJ | Pingu
+IT2200001FW | Fireplace Vibes
+IT2200009F9 | Per Caso TV
+IT2200011IA | Masha e Orso
+IT23000034W | Al Jazeera
+IT2400001AE | Top Gear
+IT2500001IF | Cool Summer Channel
+IT260000131 | Fantascienza - Rakuten TV
+IT2600002F6 | Film Top - Rakuten TV
+IT2600003FM | Film d'azione - Rakuten TV
+IT2600004K9 | Romance - Rakuten TV
+IT2600005ZN | Dramma - Rakuten TV
+IT2600006JG | Film Asiatici - Rakuten TV
+IT2600007WQ | Commedia - Rakuten TV
+IT2600008RA | Serie Crime - Rakuten TV
+IT2600009QD | Euronews IN DIRETTA
+IT2600010E0 | Family - Rakuten TV
+IT2700002ZN | Class CNBC
+IT2900001B5 | BBC Series
+IT2900002QI | Piel Salvaje
+IT2900003UK | Automoto
+IT3000010NB | RTL 102.5
+IT3000012PW | RTL 102.5 BEST
+IT30000132N | RTL 102.5 Caliente
+IT3000014RV | RTL 102.5 DISCO
+IT300001586 | RTL 102.5 Radio Freccia
+IT3000016RH | RTL 102.5 Radio Zeta
+IT3000019ZM | Concerto
+IT3000035B | Sony One Serie da Ridere
+IT300004KM | Sony One Film d’azione
+IT300005J9 | Sony One Film divertenti
+IT300006W3 | Sony One Gli imperdibili
+IT3000282Q | Motor1
+IT300029U3 | Cinemalizia
+IT3100001FT | INTER 24/7
+IT31000026G | Discovery
+IT3200002L5 | BBC Earth
+IT3200003YZ | DFB Play TV
+IT3200004WU | Rai News 24
+IT3200005F4 | Inazuma Eleven Collection
+IT3200006YF | Mudù - Risate dal Sud
+IT3300001G3 | Il Sole 24 Ore TV
+IT3300004VU | Metal.Rocks
+IT34000016N | Video Game Heroes
+IT3400003D6 | Sky News International
+IT3600001Q1 | Crime Time
+IT3600004TW | Western Time
+IT3600005AL | Cine Paura
+IT3600007QQ | Soap Turco
+IT3700001R9 | Forensic Files
+IT3800001XM | Cine Amore
+IT3800003GX | Guardia Costiera
+IT3800005HI | Squadra Speciale
+IT38000070T | Red Bull TV
+IT3900001EN | Sonic The Hedgehog
+IT39000028R | CJ ENM K-POP
+IT3900003FE | Hell's Kitchen
+IT4000061Q | Un medico in famiglia
+IT4000089R | LBA Classics
+IT4200001D8 | Golf Television
+IT4500001L4 | Squadra Speciale Cobra 11
+IT4600001JQ | Soap Latino
+IT480000143 | Teletubbies
+IT500002FD | Duri a morire
+IT500004JK | Romantica
+IT500006GE | 70-80.it
+IT500008CB | 3BMeteo
+IT500010AQ | Class TV Moda
+IT500011RG | Gambero Rosso
+IT50001295 | Urania News
+IT510000124 | Rally.TV FAST+
+IT5100003XM | BEAUTY CHANNEL
+IT600001L6 | Italian Fishing TV
+IT700004X4 | Pocoyo
+IT700005C9 | Studio Uno
+IT700007M3 | Yu-Gi-Oh!
+IT700008NG | Rolling Stones Takeover
+IT700009BQ | Space Live
+IT800001SW | Inuyasha
+IT800002CE | Motoretrò
+IT800003V4 | SuperTennis
+IT900001A7 | Mr Bean Animated
+IT9000023T | II Guerra Mondiale - La Storia
+IT900003FU | HGTV
+IT900004Y5 | Turbo
+IT9000060Q | NOVE
+IT900007I0 | Real time
+IT9000081B | Giallo
+IT90001094 | Foodnetwork
+IT9000113W | DMAX
+IT900013AJ | A tu per tu
+ITAJ3800001Z4 | Catfish
+ITAJ3800002PN | iCarly
+ITAJ380000343 | Spongebob
+ITAJ38000055E | Pluto TV Film
+ITAJ3800006UB | Pluto TV Real Life
+ITAJ3800007P8 | Pluto TV Serie
+ITAJ3800009J1 | Pluto TV Film Romantici
+ITAJ3800010RX | Pluto TV Teen Club
+ITAJ4500016FM | The Pet Collective
+ITAJ4500022GD | People Are Awesome
+ITBA1400001QN | FailArmy
+ITBA14000026G | Anche i ricchi piangono
+ITBA14000093A | CG Grandi Film
+ITBA1500001R6 | Deluxe Lounge HD
+ITBA2200008IM | Radio Italia Live
+ITBA3300022EA | SportOutdoor.tv
+ITBA33000238E | Cinema italiano
+ITBA3300024IU | Bizzarro Movies
+ITBA3300025F5 | Bloomberg TV+
+ITBA33000374G | 5-Minuti Creativi
+ITBA3300041LY | Trace Urban
+ITBA3300042HE | Trace Latina
+ITBA3300046KE | WildEarth
+ITBA33000478X | WaterBear
+ITBA3300048YJ | Trailers
+ITBB20000072M | CineWestern
+ITBB5000002N0 | Giornale Radio TV
+ITBC1100001G5 | Alta Tensione
+ITBC1100002ZU | Smile
+ITBC1100003KC | Grandi Nomi
+ITBC11000047F | Velvet
+ITBC11000050E | Adrenaline Movies
+ITBC1100008L4 | Alberto Sordi &amp; Co
+ITBC11000108G | Hip Hop TV
+ITBC1100011RK | Rock TV
+ITBC2100001G9 | Vevo Pop
+ITBC210000200 | Vevo '90s &amp; '00s
+ITBC3000002WL | Pluto TV Film Commedia
+ITBC3000003CT | Pluto TV Film Azione
+ITBC3000007XK | Salto Ostacoli
+ITBC35000016T | wedotv Big Stories
+ITBC3500002SJ | Teen Vee
+ITBC400001LX | Action Movie Channel
+ITBC4000028E | NBC News NOW
+ITBC400003Y7 | Brindiamo!
+ITBC400005TF | Adventure Sports TV
+ITBC4700001E6 | duckTV
+ITBC4700002CO | Solocalcio
+ITBC4700003GR | Love the Planet
+ITBC4700004EQ | Film Al Femminile - Wedo Movies
+ITBD10000019E | Grjngo- Film Western
+ITBD1000002HF | FIFA+
+ITBD1000006RD | True Crime
+ITBD1100001B7 | Gli Immortali
+ITBD1100002WX | FRANCE 24 FAST
+ITBD140000119 | CG Cine Mania
+ITBD1400003D0 | Cinemadame
+ITBD1500002NL | La 7
+ITBD1900001R7 | Martial Universe - La Serie Completa
+ITBD19000097D | CNN Headlines International
+ITBD1900010JL | Vevo '70s &amp; '80s
+ITBD2300001MT | RBN
+ITBD29000015E | World Poker Tour
+ITBD300001GI | Move - Sportivi in Viaggio
+ITBD3200001VR | Supercinema
+ITBD3200002DU | Cine Thriller
+ITBD3200003HL | Andromeda
+ITBD3200004KN | Autostop per il Cielo
+ITBD3200005YA | Mutant X
+ITBD3200006F0 | Relic Hunter
+ITBD3200007SZ | DeAPlaneta Kids
+ITBD3600002PA | CNBC
+ITBD3700001TM | DATELINE 24/7
+ITBD4100001MG | Elisa di Rivombrosa
+ITBD41000054B | K-Drama+
+ITBD4100007LO | A Tavola
+ITBD51000010V | SuperToons TV
+ITBD600001CL | Brividy Cinema
+ITBD600002HT | Just For Laughs
 ITV1.ch | ITV1
 ITV2.ch | ITV2
 ITV3.ch | ITV3
