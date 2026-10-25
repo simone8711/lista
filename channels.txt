@@ -1,9 +1,13 @@
+-frisbee-.it | IT - -frisbee-
 1+1.Ukraine.ch | 1+1 Ukraine
 13eme.Rue.ch | 13eme Rue
 13th.Street.ch | 13th Street
 20.Mediaset.ch | 20 Mediaset
 20.it | 20
+20Mediaset HD.it | 20Mediaset HD.it
+27 Twentyseven.it | 27 Twentyseven.it
 27.Twentyseven.it | 27 Twentyseven
+27Twentyseven HD.it | 27Twentyseven HD.it
 2M.Monde.ch | 2M Monde
 3+.ch | 3+
 360.ch | 360
@@ -21,7 +25,9 @@
 AB.3.ch | AB 3
 AB1.ch | AB1
 ABC.News.ch | ABC News
+ACI Sport Tv.it | ACI Sport Tv.it
 ACI.Sport.Tv.it | ACI Sport Tv
+ACISportTv.it | IT - ACI Sport Tv
 ADRIA.MUSIC.TELEVISION.ch | ADRIA MUSIC TELEVISION
 ALF-TV.ch | ALF-TV
 ALMA.TV.ch | ALMA TV
@@ -29,6 +35,7 @@ ARCADIA.world.TV.ch | ARCADIA world TV
 ARD-alpha.ch | ARD-alpha
 ARD.Plus.(Logo.VOD).ch | ARD Plus (Logo VOD)
 ARD.Plus.Kids.(Logo.VOD).ch | ARD Plus Kids (Logo VOD)
+ATALANTA.SerieA | SERIEA - ATALANTA
 ATV.(TR).ch | ATV (TR)
 ATV..Albania.ch | ATV  Albania
 ATV.Avrupa.ch | ATV Avrupa
@@ -39,11 +46,15 @@ AXN.Black.ch | AXN Black
 AXN.White.ch | AXN White
 Action.ch | Action
 Ajoie.TV.ch | Ajoie TV
+Al Jazeera Intl. HD.it | Al Jazeera Intl. HD.it
+Al Jazeera Intl..it | Al Jazeera Intl..it
 Al.Arabiya.ch | Al Arabiya
 Al.Jazeera.English.ch | Al Jazeera English
 Al.Jazeera.Intl..HD.it | Al Jazeera Intl. HD
 Al.Jazeera.ch | Al Jazeera
 Al.Masriya.ch | Al Masriya
+AlJazeeraIntl.it | IT - Al Jazeera Intl.
+AlmaTV.it | IT - Alma TV
 Amazon.Prime.Video.ch | Amazon Prime Video
 Animal.Planet.D.ch | Animal Planet D
 Animaux.ch | Animaux
@@ -56,6 +67,8 @@ Arte.Deutsch.ch | Arte Deutsch
 Arte.Français.ch | Arte Français
 Atreseries.ch | Atreseries
 Auftanken.TV.ch | Auftanken TV
+Automoto.it | IT - Automoto
+BBC World News.it | BBC World News.it
 BBC.Four.ch | BBC Four
 BBC.News.ch | BBC News
 BBC.One.ch | BBC One
@@ -70,23 +83,31 @@ BIKE.it | BIKE
 BN.2.ch | BN 2
 BN.Music.ch | BN Music
 BN.TV.Sat.ch | BN TV Sat
+BOLOGNA.SerieA | SERIEA - BOLOGNA
 BOM.Cine.ch | BOM Cine
 BR.ch | BR
 BVN.TV.ch | BVN TV
+BabyTV.it | IT - BabyTV
 Benin.TV.ch | Benin TV
 Bergblick.ch | Bergblick
 Bibel.TV.ch | Bibel TV
 Bike.Channel.ch | Bike Channel
+Blaze.it | IT - Blaze
 Bloomberg.TV.ch | Bloomberg TV
 Bloomberg.it | Bloomberg
 Bodensee.TV.ch | Bodensee TV
 Boing.I.ch | Boing I
 Boing.it | Boing
 BonGusto.ch | BonGusto
+Boomerang +1.it | Boomerang +1.it
+Boomerang+1.it | IT - Boomerang +1
 Boomerang.+1.it | Boomerang +1
 Boomerang.F.ch | Boomerang F
 Boomerang.it | Boomerang
+CACCIA e Pesca.it | CACCIA e Pesca.it
 CACCIA.e.Pesca.it | CACCIA e Pesca
+CACCIAePesca.it | IT - CACCIA e Pesca
+CAGLIARI.SerieA | SERIEA - CAGLIARI
 CANAL+.App.ch | CANAL+ App
 CANAL+.Cinema(s).ch | CANAL+ Cinema(s)
 CANAL+.Kids.ch | CANAL+ Kids
@@ -101,20 +122,32 @@ CARAC.2.ch | CARAC 2
 CARAC.3.ch | CARAC 3
 CARAC.4.ch | CARAC 4
 CARAC.5.ch | CARAC 5
+CARTOONITO DTT.it | CARTOONITO DTT.it
+CARTOONITO.it | IT - CARTOONITO
 CBeebies.ch | CBeebies
 CCTV4.ch | CCTV4
 CGTN.Documentary.ch | CGTN Documentary
 CGTN.ch | CGTN
+CI Crime Investigation.it | CI Crime Investigation.it
 CN.Lego.days.it | CN Lego days
+CNBC HD.it | CNBC HD.it
 CNBC.HD.it | CNBC HD
 CNBC.UK.ch | CNBC UK
+CNBC.it | IT - CNBC
 CNEWS.ch | CNEWS
+CNN Intl..it | CNN Intl..it
 CNN.Intl..it | CNN Intl.
 CNN.Türk.ch | CNN Türk
 CNN.ch | CNN
+CNNIntl.it | IT - CNN Intl.
+COMO.SerieA | SERIEA - COMO
+CREMONESE.SerieA | SERIEA - CREMONESE
 CSTAR.F.ch | CSTAR F
 CT24.ch | CT24
+Caccia e PESCA.it | Caccia e PESCA.it
 Caccia.e.PESCA.it | Caccia e PESCA
+Caccia.it | Caccia.it
+CacciaePESCA.it | IT - Caccia e PESCA
 Camera.dei.Deputati.ch | Camera dei Deputati
 Canal+.Box.Office.ch | Canal+ Box Office
 Canal+.Docs.ch | Canal+ Docs
@@ -129,13 +162,21 @@ Canal.Alpha.JU.ch | Canal Alpha JU
 Canal.Alpha.NE.ch | Canal Alpha NE
 Canal.J.ch | Canal J
 Canal.Sur.Andalucía.ch | Canal Sur Andalucía
+Canale 20.it | Canale 20.it
+Canale 5 HD.it | Canale 5 HD.it
+Canale 5.it | Canale 5.it
 Canale.5.ch | Canale 5
 Canale.5.it | Canale 5
 Canale.Italia.ch | Canale Italia
+Canale5.it | IT - Canale 5
+Cartoon Network +1.it | Cartoon Network +1.it
+Cartoon Network.it | Cartoon Network.it
+Cartoon+1.it | IT - Cartoon +1
 Cartoon.Network.D.ch | Cartoon Network D
 Cartoon.Network.F.ch | Cartoon Network F
 Cartoon.Network.it | Cartoon Network
 Cartoon.TV.ch | Cartoon TV
+CartoonNetwork.it | IT - Cartoon Network
 Cartoonito.D.ch | Cartoonito D
 Cartoonito.F.ch | Cartoonito F
 Cartoonito.it | Cartoonito
@@ -145,35 +186,147 @@ Channel.5.ch | Channel 5
 Chasse.et.Peche.ch | Chasse et Peche
 Chérie.25.ch | Chérie 25
 Cielo.ch | Cielo
+Cielo.it | Cielo.it
 Cine+.Emotion.ch | Cine+ Emotion
 Cine+.Frisson.ch | Cine+ Frisson
+Cine34 HD.it | Cine34 HD.it
 Cine34.ch | Cine34
 Cine34.it | Cine34
 Ciné+.Classic.ch | Ciné+ Classic
 Ciné+.family.ch | Ciné+ family
 Ciné+.festival.ch | Ciné+ festival
+Class CNBC.it | Class CNBC.it
+Class Horse TV.it | Class Horse TV.it
 Class.CNBC.it | Class CNBC
 Class.TV.Moda.ch | Class TV Moda
+ClassCNBC.it | IT - Class CNBC
 Classica.HD.it | Classica HD
+Classica.it | IT - Classica
 Clubland.TV.ch | Clubland TV
 Comedie!+.ch | Comedie!+
+Comedy +1.it | Comedy +1.it
+Comedy Central.it | Comedy Central.it
+Comedy+1.it | IT - Comedy +1
 Comedy.+1.it | Comedy +1
 Comedy.Central.F.ch | Comedy Central F
 Comedy.Central.ch | Comedy Central
 Comedy.Central.it | Comedy Central
+ComedyCentral.it | IT - Comedy Central
 Crime.+.Investigation.D.ch | Crime + Investigation D
 Crime.District.ch | Crime District
 Crime.Time.ch | Crime Time
 Croatian.Music.Channel.ch | Croatian Music Channel
 Cubavisión.Int..ch | Cubavisión Int.
 Curiosity.Channel.ch | Curiosity Channel
+D Max.it | D Max.it
+DAZN 1.it | DAZN 1.it
+DAZN 2.it | DAZN 2.it
 DAZN.1.it.it | DAZN 1
 DAZN.2.it.it | DAZN 2
 DAZN.ch | DAZN
+DAZN1.it | IT - DAZN 1
+DAZN10.it | IT - DAZN 10
+DAZN100.it | IT - DAZN 100
+DAZN11.it | IT - DAZN 11
+DAZN12.it | IT - DAZN 12
+DAZN13.it | IT - DAZN 13
+DAZN14.it | IT - DAZN 14
+DAZN15.it | IT - DAZN 15
+DAZN16.it | IT - DAZN 16
+DAZN17.it | IT - DAZN 17
+DAZN18.it | IT - DAZN 18
+DAZN19.it | IT - DAZN 19
+DAZN2.it | IT - DAZN 2
+DAZN20.it | IT - DAZN 20
+DAZN21.it | IT - DAZN 21
+DAZN22.it | IT - DAZN 22
+DAZN23.it | IT - DAZN 23
+DAZN24.it | IT - DAZN 24
+DAZN25.it | IT - DAZN 25
+DAZN26.it | IT - DAZN 26
+DAZN27.it | IT - DAZN 27
+DAZN28.it | IT - DAZN 28
+DAZN29.it | IT - DAZN 29
+DAZN3.it | IT - DAZN 3
+DAZN30.it | IT - DAZN 30
+DAZN31.it | IT - DAZN 31
+DAZN32.it | IT - DAZN 32
+DAZN33.it | IT - DAZN 33
+DAZN34.it | IT - DAZN 34
+DAZN35.it | IT - DAZN 35
+DAZN36.it | IT - DAZN 36
+DAZN37.it | IT - DAZN 37
+DAZN38.it | IT - DAZN 38
+DAZN39.it | IT - DAZN 39
 DAZN4.it | DAZN4
+DAZN40.it | IT - DAZN 40
+DAZN41.it | IT - DAZN 41
+DAZN42.it | IT - DAZN 42
+DAZN43.it | IT - DAZN 43
+DAZN44.it | IT - DAZN 44
+DAZN45.it | IT - DAZN 45
+DAZN46.it | IT - DAZN 46
+DAZN47.it | IT - DAZN 47
+DAZN48.it | IT - DAZN 48
+DAZN49.it | IT - DAZN 49
 DAZN5.it | DAZN5
+DAZN50.it | IT - DAZN 50
+DAZN51.it | IT - DAZN 51
+DAZN52.it | IT - DAZN 52
+DAZN53.it | IT - DAZN 53
+DAZN54.it | IT - DAZN 54
+DAZN55.it | IT - DAZN 55
+DAZN56.it | IT - DAZN 56
+DAZN57.it | IT - DAZN 57
+DAZN58.it | IT - DAZN 58
+DAZN59.it | IT - DAZN 59
+DAZN6.it | IT - DAZN 6
+DAZN60.it | IT - DAZN 60
+DAZN61.it | IT - DAZN 61
+DAZN62.it | IT - DAZN 62
+DAZN63.it | IT - DAZN 63
+DAZN64.it | IT - DAZN 64
+DAZN65.it | IT - DAZN 65
+DAZN66.it | IT - DAZN 66
+DAZN67.it | IT - DAZN 67
+DAZN68.it | IT - DAZN 68
+DAZN69.it | IT - DAZN 69
+DAZN7.it | IT - DAZN 7
+DAZN70.it | IT - DAZN 70
+DAZN71.it | IT - DAZN 71
+DAZN72.it | IT - DAZN 72
+DAZN73.it | IT - DAZN 73
+DAZN74.it | IT - DAZN 74
+DAZN75.it | IT - DAZN 75
+DAZN76.it | IT - DAZN 76
+DAZN77.it | IT - DAZN 77
+DAZN78.it | IT - DAZN 78
+DAZN79.it | IT - DAZN 79
+DAZN8.it | IT - DAZN 8
+DAZN80.it | IT - DAZN 80
+DAZN81.it | IT - DAZN 81
+DAZN82.it | IT - DAZN 82
+DAZN83.it | IT - DAZN 83
+DAZN84.it | IT - DAZN 84
+DAZN85.it | IT - DAZN 85
+DAZN86.it | IT - DAZN 86
+DAZN87.it | IT - DAZN 87
+DAZN88.it | IT - DAZN 88
+DAZN89.it | IT - DAZN 89
+DAZN9.it | IT - DAZN 9
+DAZN90.it | IT - DAZN 90
+DAZN91.it | IT - DAZN 91
+DAZN92.it | IT - DAZN 92
+DAZN93.it | IT - DAZN 93
+DAZN94.it | IT - DAZN 94
+DAZN95.it | IT - DAZN 95
+DAZN96.it | IT - DAZN 96
+DAZN97.it | IT - DAZN 97
+DAZN98.it | IT - DAZN 98
+DAZN99.it | IT - DAZN 99
 DF1.ch | DF1
 DM.Sat.TV.ch | DM Sat TV
+DMAX HD.it | DMAX HD.it
 DMAX.HD..170.it | DMAX HD  170
 DMAX.Italia.ch | DMAX Italia
 DMAX.UK.ch | DMAX UK
@@ -184,27 +337,39 @@ DOKUSAT.ch | DOKUSAT
 DW.Englisch.ch | DW Englisch
 Das.Erste.ch | Das Erste
 Daystar.ch | Daystar
+Dazn1Linear.it | IT - Dazn 1 - Linear
 De.Pelicula.ch | De Pelicula
+DeA Junior.it | DeA Junior.it
 DeAJunior.it | DeAJunior
+DeAKids +1.it | DeAKids +1.it
+DeAKids+1.it | IT - DeAKids +1
 DeAKids.+1.it | DeAKids +1
 DeAKids.it | DeAKids
+Deejay TV.it | Deejay TV.it
 Deejay.TV.ch | Deejay TV
 Deejay.TV.it | Deejay TV
+DeejayTV.it | IT - Deejay TV
 Deluxe.Dance.by.Kontor.ch | Deluxe Dance by Kontor
 Deluxe.Music.ch | Deluxe Music
 Deluxe.Rap.ch | Deluxe Rap
 Deutscher.Bundestag.ch | Deutscher Bundestag
 Diaspora.TV.Switzerland.ch | Diaspora TV Switzerland
 Digi.24.ch | Digi 24
+Discovery +1.it | Discovery +1.it
+Discovery Channel.it | Discovery Channel.it
+Discovery+1.it | IT - Discovery +1
 Discovery.+1.it | Discovery +1
 Discovery.Channel.D.ch | Discovery Channel D
 Discovery.Channel.I.ch | Discovery Channel I
 Discovery.Channel.it | Discovery Channel
 Discovery.F.ch | Discovery F
+Discovery.it | IT - Discovery
+DiscoverySci.it | IT - Discovery Sci
 Disney+.ch | Disney+
 Disney.Channel.D.ch | Disney Channel D
 Disney.Channel.F.ch | Disney Channel F
 Disney.Junior.F.ch | Disney Junior F
+Dmax.it | Dmax.it
 Dubai.TV.ch | Dubai TV
 Duna.TV.ch | Duna TV
 Duna.World.ch | Duna World
@@ -213,7 +378,9 @@ EQUtv.it | EQUtv
 ERT.World.ch | ERT World
 EU.Parliament+.ch | EU Parliament+
 EU.Parliament.ch | EU Parliament
+Emilia Romagna 24.it | Emilia Romagna 24.it
 Emilia.Romagna.24.it | Emilia Romagna 24
+EmiliaRomagna24.it | IT - Emilia Romagna 24
 English.Club.TV.ch | English Club TV
 Enter-Film.ch | Enter-Film
 Epic.Drama.ch | Epic Drama
@@ -231,6 +398,8 @@ Euronews.E.ch | Euronews E
 Euronews.F.ch | Euronews F
 Euronews.I.ch | Euronews I
 Euronews.it | Euronews
+Eurosport 1.it | Eurosport 1.it
+Eurosport 2.it | Eurosport 2.it
 Eurosport.1.D.ch | Eurosport 1 D
 Eurosport.1.E.ch | Eurosport 1 E
 Eurosport.1.F.ch | Eurosport 1 F
@@ -240,23 +409,45 @@ Eurosport.2.F.ch | Eurosport 2 F
 Eurosport.2.I.ch | Eurosport 2 I
 Eurosport.2.Italia.it | Eurosport 2 Italia
 Eurosport.Italia.it | Eurosport Italia
+Eurosport.it | IT - Eurosport
+Eurosport2.it | IT - Eurosport 2
 Explore.(Logo.VOD).ch | Explore (Logo VOD)
+Explorer Channel.it | Explorer Channel.it
 Explorer.HD.Channel.it | Explorer HD Channel
+ExplorerChannel.it | IT - Explorer Channel
+FIORENTINA.SerieA | SERIEA - FIORENTINA
+Fashion TV.it | Fashion TV.it
 Fashion.TV.ch | Fashion TV
 Fashion.TV.it | Fashion TV
+FashionTV.it | IT - Fashion TV
 Fax.News.ch | Fax News
 Film.Four.ch | Film Four
 First.Channel.ch | First Channel
 Fix.&amp;.Foxi.TV.ch | Fix &amp; Foxi TV
+Focus HD.it | Focus HD.it
+Focus TV.it | Focus TV.it
 Focus.ch | Focus
 Focus.it | Focus
+Food Network HD.it | Food Network HD.it
+Food Network.it | Food Network.it
 Food.Network.E.ch | Food Network E
 Food.Network.HD..417.it | Food Network HD  417
 Food.Network.IT.ch | Food Network IT
 Food.Network.it | Food Network
+FoodNetwork.it | IT - Food Network
+Fox Business.it | Fox Business.it
+Fox News.it | Fox News.it
+Fox+1.it | IT - Fox +1
 Fox.Business.it | Fox Business
 Fox.News.ch | Fox News
 Fox.News.it | Fox News
+Fox.it | IT - Fox
+FoxBusiness.it | IT - Fox Business
+FoxNews.it | IT - Fox News
+France 24 English HD.it | France 24 English HD.it
+France 24 English.it | France 24 English.it
+France 24 Francais HD.it | France 24 Francais HD.it
+France 24 Francais.it | France 24 Francais.it
 France.2.ch | France 2
 France.24.English.HD.it | France 24 English HD
 France.24.English.ch | France 24 English
@@ -265,24 +456,33 @@ France.24.ch | France 24
 France.3.ch | France 3
 France.4.ch | France 4
 France.5.ch | France 5
+France24English.it | IT - France 24 English
+France24Francais.it | IT - France 24 Francais
 FreeDOM.ch | FreeDOM
 Frisbee.ch | Frisbee
 Frisbee.it | Frisbee
 Fun.Box.Ultra.ch | Fun Box Ultra
 GB.News.ch | GB News
+GENOA.SerieA | SERIEA - GENOA
 GEO.Television.ch | GEO Television
 GF.VIP.-.Regia.1.it | GF VIP - Regia 1
 GF.VIP.-.Regia.2.it | GF VIP - Regia 2
 GF.VIP.-.Un’ora.fa.it | GF VIP - Un’ora fa
+GIALLO HD.it | GIALLO HD.it
 GIALLO.HD..167.it | GIALLO HD  167
+GIALLO.it | IT - GIALLO
 GOLF+.ch | GOLF+
 GVAX.Latino.TV.ch | GVAX Latino TV
+Gambero Rosso HD.it | Gambero Rosso HD.it
+Gambero Rosso.it | Gambero Rosso.it
 Gambero.Rosso.HD.it | Gambero Rosso HD
+GamberoRosso.it | IT - Gambero Rosso
 Game.One.ch | Game One
 Game.TV.ch | Game TV
 Genève.Région.Television/TéléVersoix.ch | Genève Région Television/TéléVersoix
 Giallo.TV.it | Giallo TV
 Giallo.ch | Giallo
+Giallo.it | Giallo.it
 Ginx.TV.ch | Ginx TV
 Goldstar.TV.ch | Goldstar TV
 Grand.Genève.TV.ch | Grand Genève TV
@@ -290,6 +490,8 @@ Great!.Romance.ch | Great! Romance
 Great!.movies.action.ch | Great! movies action
 Great!.movies.ch | Great! movies
 Gulli.ch | Gulli
+HELLASVERONA.SerieA | SERIEA - HELLAS VERONA
+HGTV HD.it | HGTV HD.it
 HGTV.HD..418.it | HGTV HD  418
 HGTV.it | HGTV
 HR.ch | HR
@@ -303,6 +505,9 @@ Hayatovci.ch | Hayatovci
 Heimatkanal.ch | Heimatkanal
 Helvetia.One.TV.ch | Helvetia One TV
 Hip.Trips.ch | Hip Trips
+History +1.it | History +1.it
+History Channel.it | History Channel.it
+History+1.it | IT - History +1
 History.+1.it | History +1
 History.IT.ch | History IT
 History.ch | History
@@ -310,11 +515,14 @@ History.it | History
 Home.&amp;.Garden.TV.IT.ch | Home &amp; Garden TV IT
 Home.&amp;.Garden.TV.ch | Home &amp; Garden TV
 Hope.TV.ch | Hope TV
+Horse TV HD.it | Horse TV HD.it
 Horse.TV.HD.it | Horse TV HD
+HorseTV.it | IT - Horse TV
 Höhenrausch.ch | Höhenrausch
 I-TV.ch | I-TV
 ICI.MEDIA.SPORTS.ch | ICI MEDIA SPORTS
 INPLUS.ch | INPLUS
+INTER.SerieA | SERIEA - INTER
 INULTRA.ch | INULTRA
 IRIS.ch | IRIS
 ITV1.ch | ITV1
@@ -324,16 +532,26 @@ ITV4.ch | ITV4
 Info.Channel.ch | Info Channel
 Info.TV.Davos.Klosters.ch | Info TV Davos Klosters
 Inhouse.Channel.ch | Inhouse Channel
+Inter TV.it | Inter TV.it
 Inter.TV.ch | Inter TV
 Inter.TV.it | Inter TV
+InterTV.it | IT - Inter TV
+Iris HD.it | Iris HD.it
 Iris.it | Iris
 Israel+.ch | Israel+
+Italia 1 HD.it | Italia 1 HD.it
+Italia 1.it | Italia 1.it
+Italia 2.it | Italia 2.it
 Italia.1.ch | Italia 1
 Italia.1.it | Italia 1
 Italia.2.ch | Italia 2
 Italia.2.it | Italia 2
 Italia.Channel.ch | Italia Channel
+Italia1.it | IT - Italia 1
+Italia2.it | IT - Italia 2
+ItalianFishingTV.it | IT - Italian Fishing TV
 J-One.ch | J-One
+JUVENTUS.SerieA | SERIEA - JUVENTUS
 Just.Cooking.ch | Just Cooking
 Just.fishing.ch | Just.fishing
 K-TV.ch | K-TV
@@ -351,9 +569,16 @@ Kinomir.ch | Kinomir
 Kinowelt.ch | Kinowelt
 Kurdistan.TV.ch | Kurdistan TV
 L&apos;Equipe.ch | L&apos;Equipe
+LA7 HD.it | LA7 HD.it
 LA7.CINEMA.it | LA7 CINEMA
 LA7.HD.it | LA7 HD
 LA7D.it | LA7D
+LAZIO.SerieA | SERIEA - LAZIO
+LECCE.SerieA | SERIEA - LECCE
+La 5 HD.it | La 5 HD.it
+La 5.it | La 5.it
+La 7.it | La 7.it
+La 7d.it | La 7d.it
 La.5.it | La 5
 La.7.ch | La 7
 La.7d.ch | La 7d
@@ -361,7 +586,12 @@ La.Chaine.Info.-.LCI.ch | La Chaine Info - LCI
 La.Chaîne.parlementaire.ch | La Chaîne parlementaire
 La.Télé.ch | La Télé
 La5.ch | La5
+La5.it | IT - La 5
+La7.it | IT - La7
+La7D.it | IT - La7D
 Las.Estrellas.ch | Las Estrellas
+Lazio Style Channel.it | Lazio Style Channel.it
+LazioStyleCh.it | IT - Lazio Style Ch
 Lilo.TV.ch | Lilo TV
 Loly.TV.ch | Loly TV
 Love.Nature.4K.ch | Love Nature 4K
@@ -374,28 +604,46 @@ MCM.Top.ch | MCM Top
 MCM.ch | MCM
 MDR.ch | MDR
 MGGTV.ch | MGGTV
+MILAN.SerieA | SERIEA - MILAN
+MTV HD.it | MTV HD.it
+MTV Music.it | MTV Music.it
 MTV.France.ch | MTV France
 MTV.HD.it | MTV HD
 MTV.Music.it | MTV Music
 MTV.ch | MTV
+MTV.it | IT - MTV
+MTVMusic.it | IT - MTV Music
 Mangas.ch | Mangas
 Marco.Polo.ch | Marco Polo
+Matrix Collection.it | Matrix Collection.it
+Matt Damon Collection.it | Matt Damon Collection.it
 Max.TV.ch | Max TV
+Mediaset Extra HD.it | Mediaset Extra HD.it
+Mediaset Extra.it | Mediaset Extra.it
+Mediaset Italia2 HD.it | Mediaset Italia2 HD.it
 Mediaset.Extra.ch | Mediaset Extra
 Mediaset.Extra.it | Mediaset Extra
 Mediaset.Italia.-.America.it | Mediaset Italia - America
 Mediaset.Italia.-.Australia.e.Asia.it | Mediaset Italia - Australia e Asia
 Mediaset.Italia.-.Europa.e.Africa.it | Mediaset Italia - Europa e Africa
+Mediaset20.it | IT - 20 Mediaset
+Mediaset27Twentyseven.it | IT - Mediaset 27 Twentyseven
+MediasetExtra.it | IT - Mediaset Extra
 MelodieTV.ch | MelodieTV
 Melody.ch | Melody
 Mezzo.Live.ch | Mezzo Live
 Mezzo.ch | Mezzo
+Milan TV.it | Milan TV.it
 Milan.TV.it | Milan TV
+MilanTV.it | IT - Milan TV
 More.4.ch | More 4
 More.Than.Sports.TV.ch | More Than Sports TV
+Motor Trend HD.it | Motor Trend HD.it
+Motor Trend.it | Motor Trend.it
 Motor.Trend.HD..419.it | Motor Trend HD  419
 Motor.Trend.ch | Motor Trend
 Motor.Trend.it | Motor Trend
+MotorTrend.it | IT - Motor Trend
 Motorvision.TV.France.ch | Motorvision.TV France
 Motorvision.TV.ch | Motorvision TV
 Museum.TV.4K.ch | Museum TV 4K
@@ -422,21 +670,38 @@ MySports.EDGE.ch | MySports EDGE
 MySports.Eins.ch | MySports Eins
 MySports.Un.ch | MySports Un
 N24.Doku.ch | N24 Doku
+NAPOLI.SerieA | SERIEA - NAPOLI
 NDR.ch | NDR
+NHK World TV HD.it | NHK World TV HD.it
+NHK World TV.it | NHK World TV.it
 NHK.World.Japan.ch | NHK World Japan
 NHK.World.TV.HD.it | NHK World TV HD
+NOVE HD.it | NOVE HD.it
 NOVE.HD..149.it | NOVE HD  149
 NOVE.ch | NOVE
+NOVE.it | IT - NOVE
 NRTV.ch | NRTV
+NatGeoWild+1.it | IT - NatGeo Wild +1
+NatGeoWild.it | IT - NatGeo Wild
 National.Geographic.D.ch | National Geographic D
 National.Geographic.F.ch | National Geographic F
 National.Geographic.Wild.D.ch | National Geographic Wild D
 National.Geographic.Wild.F.ch | National Geographic Wild F
+NationalGeo+1.it | IT - NationalGeo +1
+NationalGeo.it | IT - NationalGeo
 Netflix.ch | Netflix
 Network-TV.ch | Network-TV
+Nick Jr. +1.it | Nick Jr. +1.it
+Nick Jr..it | Nick Jr..it
+Nick Jr.it | Nick Jr.it
+Nick Junior.it | Nick Junior.it
 Nick.Jr..+1.it | Nick Jr. +1
 Nick.Jr..ch | Nick Jr.
 Nick.Jr.it | Nick Jr
+NickJr+1.it | IT - Nick Jr +1
+NickJr.it | IT - Nick Jr
+Nickelodeon +1.it | Nickelodeon +1.it
+Nickelodeon+1.it | IT - Nickelodeon +1
 Nickelodeon.+1.it | Nickelodeon +1
 Nickelodeon.ch | Nickelodeon
 Nickelodeon.it | Nickelodeon
@@ -460,10 +725,13 @@ One.Music.Television.ch | One Music Television
 One.Terra.ch | One Terra
 One.ch | One
 OstWest.ch | OstWest
+PARMA.SerieA | SERIEA - PARMA
 PBS.America.ch | PBS America
+PISA.SerieA | SERIEA - PISA
 Paramount+.ch | Paramount+
 Paramount.F.ch | Paramount F
 Parole.di.Vita.ch | Parole di Vita
+Pesca.it | Pesca.it
 Phoenix.Info.News.ch | Phoenix Info News
 Phoenix.TV.ch | Phoenix TV
 Pink.Extra.ch | Pink Extra
@@ -484,6 +752,11 @@ Planète+.ch | Planète+
 Polar+.ch | Polar+
 Premium.Shopping.ch | Premium Shopping
 Pretty.TV.ch | Pretty TV
+Primafila1.it | IT - Primafila 1
+Primafila2.it | IT - Primafila 2
+Primafila3.it | IT - Primafila 3
+Primafila4.it | IT - Primafila 4
+Primafila5.it | IT - Primafila 5
 Pro.TV.International.ch | Pro TV International
 ProSieben.MAXX.ch | ProSieben MAXX
 ProSieben.ch | ProSieben
@@ -492,10 +765,16 @@ QVC.it | QVC
 Quest.ch | Quest
 R101tv.it | R101tv
 R9.Österreich.ch | R9 Österreich
+RADIOFRECCIA HD.it | RADIOFRECCIA HD.it
 RADIOFRECCIA.HD.it | RADIOFRECCIA HD
+RADIOFRECCIA.it | IT - RADIOFRECCIA
+RADIONORBA TV.it | RADIONORBA TV.it
 RADIONORBA.TV.it | RADIONORBA TV
+RADIONORBATV.it | IT - RADIONORBA TV
+RAI Sport.it | RAI Sport.it
 RAI.Italia.ch | RAI Italia
 RAI.Sport...227.it | RAI Sport   227
+RAISport.it | IT - RAI Sport
 RBB.ch | RBB
 RFM.TV.ch | RFM TV
 RIC.TV.ch | RIC TV
@@ -503,9 +782,15 @@ RIK.Sat.ch | RIK Sat
 RMC.Découverte.ch | RMC Découverte
 RMC.Story.ch | RMC Story
 RMC.it | RMC
+ROMA.SerieA | SERIEA - ROMA
 RSI.LA.2.ch | RSI LA 2
 RSI.La.1.ch | RSI La 1
+RSILA1.it | IT - RSI LA 1
+RSILA2.it | IT - RSI LA 2
+RTDoc.it | IT - RT Doc
 RTK.1.ch | RTK 1
+RTL 102.5 HD.it | RTL 102.5 HD.it
+RTL 102.5.it | RTL 102.5.it
 RTL.102.5.HD.it | RTL 102.5 HD
 RTL.102.5.TV.ch | RTL 102.5 TV
 RTL.Crime.ch | RTL Crime
@@ -514,6 +799,7 @@ RTL.Living.ch | RTL Living
 RTL.Passion.ch | RTL Passion
 RTL.ZWEI.ch | RTL ZWEI
 RTL.ch | RTL
+RTL1025.it | IT - RTL 102.5
 RTL9.ch | RTL9
 RTLup.ch | RTLup
 RTP.3.ch | RTP 3
@@ -527,13 +813,38 @@ RTV.21.ch | RTV 21
 RTV21.M.ch | RTV21 M
 RTVS.24.ch | RTVS 24
 RTVi.ch | RTVi
+Radio Freccia.it | Radio Freccia.it
+Radio Italia TV HD.it | Radio Italia TV HD.it
+Radio Italia Trend Tv HD.it | Radio Italia Trend Tv HD.it
+Radio Italia Tv.it | Radio Italia Tv.it
+Radio Monte Carlo.it | Radio Monte Carlo.it
 Radio.105.it | Radio 105
 Radio.Italia.TV.HD.it | Radio Italia TV HD
 Radio.Italia.TV.ch | Radio Italia TV
 Radio.Italia.Trend.Tv.HD.it | Radio Italia Trend Tv HD
 Radio.Pilatus.TV.ch | Radio Pilatus TV
 Radio.Ticino.Channel.ch | Radio Ticino Channel
+RadioItaliaTV.it | IT - Radio Italia TV
+RadioItaliaTrendTv.it | IT - Radio Italia Trend Tv
+RadioMonteCarlo.it | IT - Radio Monte Carlo
+Radionorba TV.it | Radionorba TV.it
 Radionorba.TV.ch | Radionorba TV
+Rai 1 HD.it | Rai 1 HD.it
+Rai 1.it | Rai 1.it
+Rai 2 HD.it | Rai 2 HD.it
+Rai 2.it | Rai 2.it
+Rai 3 HD.it | Rai 3 HD.it
+Rai 3.it | Rai 3.it
+Rai 4.it | Rai 4.it
+Rai 5.it | Rai 5.it
+Rai Gulp.it | Rai Gulp.it
+Rai Movie.it | Rai Movie.it
+Rai News 24.it | Rai News 24.it
+Rai Premium.it | Rai Premium.it
+Rai Scuola.it | Rai Scuola.it
+Rai Sport.it | Rai Sport.it
+Rai Storia.it | Rai Storia.it
+Rai Yoyo.it | Rai Yoyo.it
 Rai.1.HD..101.it | Rai 1 HD  101
 Rai.1.ch | Rai 1
 Rai.2.HD..102.it | Rai 2 HD  102
@@ -565,25 +876,35 @@ Rai4.it | Rai4
 Rai5.it | Rai5
 RaiGulp.it | RaiGulp
 RaiMovie.it | RaiMovie
+RaiNews.it | IT - Rai News
 RaiNews24.it | RaiNews24
 RaiPremium.it | RaiPremium
 RaiRadio2.it | RaiRadio2
 RaiScuola.it | RaiScuola
 RaiSport.it | RaiSport
+RaiSport1.it | IT - Rai Sport 1
 RaiStoria.it | RaiStoria
 RaiYoyo.it | RaiYoyo
+Real Time HD.it | Real Time HD.it
+Real Time.it | Real Time.it
 Real.Time.HD..160.it | Real Time HD  160
 Real.Time.ch | Real Time
 Real.Time.it | Real Time
+RealTime.it | IT - Real Time
 Record.TV.ch | Record TV
+Rete 4 HD.it | Rete 4 HD.it
+Rete 4.it | Rete 4.it
 Rete.4.ch | Rete 4
 Rete.4.it | Rete 4
 Rete.55.ch | Rete 55
+Rete4.it | IT - Rete 4
 Rheinwelten.TV.ch | Rheinwelten TV
 Rhône.TV.ch | Rhône TV
+RomaTV.it | IT - Roma TV
 Romance.TV.ch | Romance TV
 Rudaw.TV.ch | Rudaw TV
 S1.ch | S1
+SASSUOLO.SerieA | SERIEA - SASSUOLO
 SAT.1.GOLD.ch | SAT.1 GOLD
 SAT.1.ch | SAT.1
 SHf.-.Schaffhauser.Fernsehen.ch | SHf - Schaffhauser Fernsehen
@@ -600,8 +921,10 @@ SRF.zwei.ch | SRF zwei
 SWISS1.ch | SWISS1
 SWR.ch | SWR
 SYLT1.ch | SYLT1
+San Marino RTV.it | San Marino RTV.it
 San.Marino.RTV.ch | San Marino RTV
 San.Marino.RTV.it | San Marino RTV
+SanMarinoRTV.it | IT - San Marino RTV
 Schlager.Deluxe.ch | Schlager Deluxe
 Schlagerparadies.TV.ch | Schlagerparadies TV
 Science.&amp;.Vie.ch | Science &amp; Vie
@@ -614,6 +937,49 @@ Session.National.Council.WEB.ch | Session National Council WEB
 Session.National.Council.ch | Session National Council
 Show.Türk.ch | Show Türk
 Showmax.ch | Showmax
+Sky Arte.it | Sky Arte.it
+Sky Atlantic +1.it | Sky Atlantic +1.it
+Sky Atlantic.it | Sky Atlantic.it
+Sky Calcio 10.it | Sky Calcio 10.it
+Sky Calcio 11.it | Sky Calcio 11.it
+Sky Cinema Action.it | Sky Cinema Action.it
+Sky Cinema Collection.it | Sky Cinema Collection.it
+Sky Cinema Comedy.it | Sky Cinema Comedy.it
+Sky Cinema Cult.it | Sky Cinema Cult.it
+Sky Cinema Drama.it | Sky Cinema Drama.it
+Sky Cinema Due +24.it | Sky Cinema Due +24.it
+Sky Cinema Due.it | Sky Cinema Due.it
+Sky Cinema Family.it | Sky Cinema Family.it
+Sky Cinema Romance.it | Sky Cinema Romance.it
+Sky Cinema Suspense.it | Sky Cinema Suspense.it
+Sky Cinema Uno +24.it | Sky Cinema Uno +24.it
+Sky Cinema Uno.it | Sky Cinema Uno.it
+Sky Classica.it | Sky Classica.it
+Sky Crime.it | Sky Crime.it
+Sky Documentaries +1.it | Sky Documentaries +1.it
+Sky Documentaries.it | Sky Documentaries.it
+Sky Investigation +1 HD.it | Sky Investigation +1 HD.it
+Sky Investigation.it | Sky Investigation.it
+Sky Meteo 24.it | Sky Meteo 24.it
+Sky Meteo24.it | Sky Meteo24.it
+Sky Nature.it | Sky Nature.it
+Sky News.it | Sky News.it
+Sky Serie +1.it | Sky Serie +1.it
+Sky Serie.it | Sky Serie.it
+Sky Sport 4K.it | Sky Sport 4K.it
+Sky Sport Arena.it | Sky Sport Arena.it
+Sky Sport Calcio.it | Sky Sport Calcio.it
+Sky Sport F1.it | Sky Sport F1.it
+Sky Sport Golf.it | Sky Sport Golf.it
+Sky Sport Max.it | Sky Sport Max.it
+Sky Sport MotoGP.it | Sky Sport MotoGP.it
+Sky Sport NBA.it | Sky Sport NBA.it
+Sky Sport Tennis.it | Sky Sport Tennis.it
+Sky Sport Uno.it | Sky Sport Uno.it
+Sky Sport.it | Sky Sport.it
+Sky TG24.it | Sky TG24.it
+Sky Uno +1.it | Sky Uno +1.it
+Sky Uno.it | Sky Uno.it
 Sky.(Logo.VOD).ch | Sky (Logo VOD)
 Sky.Adventure.it | Sky Adventure
 Sky.Arte.+1.it | Sky Arte +1
@@ -699,11 +1065,65 @@ Sky.TG24.it | Sky TG24
 Sky.Uno.+..it | Sky Uno +
 Sky.Uno.+.it | Sky Uno +
 Sky.Uno.it | Sky Uno
+SkyArte+1.it | IT - Sky Arte +1
+SkyArte.it | IT - Sky Arte
+SkyAtlantic+1.it | IT - Sky Atlantic +1
+SkyAtlantic.it | IT - Sky Atlantic
+SkyCinemaAction.it | IT - Sky Cinema Action
+SkyCinemaCollection.it | IT - Sky Cinema Collection
+SkyCinemaComedy.it | IT - Sky Cinema Comedy
+SkyCinemaDrama.it | IT - Sky Cinema Drama
+SkyCinemaDue+24.it | IT - Sky Cinema Due +24
+SkyCinemaDue.it | IT - Sky Cinema Due
+SkyCinemaFamily.it | IT - Sky Cinema Family
+SkyCinemaRomance.it | IT - Sky Cinema Romance
+SkyCinemaSuspense.it | IT - Sky Cinema Suspense
+SkyCinemaUno+24.it | IT - Sky Cinema Uno +24
+SkyCinemaUno.it | IT - Sky Cinema Uno
+SkyCrime.it | IT - Sky Crime
+SkyDocumentaries+1.it | IT - Sky Documentaries +1
+SkyDocumentaries.it | IT - Sky Documentaries
+SkyInvestigation.it | IT - Sky Investigation
+SkyInvestigationMaratone.it | IT - Sky Investigation Maratone
+SkyMeteo24.it | IT - Sky Meteo24
+SkyNature.it | IT - Sky Nature
+SkyNews.it | IT - Sky News
+SkySerie+1.it | IT - Sky Serie +1
+SkySerie.it | IT - Sky Serie
+SkySport.it | IT - Sky Sport
+SkySport24.it | IT - Sky Sport24
+SkySport251.it | IT - Sky Sport 251
+SkySport252.it | IT - Sky Sport 252
+SkySport253.it | IT - Sky Sport 253
+SkySport254.it | IT - Sky Sport 254
+SkySport255.it | IT - Sky Sport 255
+SkySport256.it | IT - Sky Sport 256
+SkySport257.it | IT - Sky Sport 257
+SkySport258.it | IT - Sky Sport 258
+SkySport259.it | IT - Sky Sport 259
+SkySport260.it | IT - Sky Sport 260
+SkySport261.it | IT - Sky Sport 261
+SkySport4K.it | IT - Sky Sport 4K
+SkySportArena.it | IT - Sky Sport Arena
+SkySportCalcio.it | IT - Sky Sport Calcio
+SkySportF1.it | IT - Sky Sport F1
+SkySportGolf.it | IT - Sky Sport Golf
+SkySportLegend.it | IT - Sky Sport Legend
+SkySportMax.it | IT - Sky Sport Max
+SkySportMotoGP.it | IT - Sky Sport MotoGP
+SkySportNBA.it | IT - Sky Sport NBA
+SkySportTennis.it | IT - Sky Sport Tennis
+SkySportUno.it | IT - Sky Sport Uno
+SkyTG24.it | IT - Sky TG24
+SkyUno+.it | IT - Sky Uno +
+SkyUno+1.it | IT - Sky Uno +1
+SkyUno.it | IT - Sky Uno
 Solocalcio.it.it | Solocalcio
 Spiegel.Geschichte.ch | Spiegel Geschichte
 Sport1.ch | Sport1
 Sportdigital1+.ch | Sportdigital1+
 Sportitalia.HD.it | Sportitalia HD
+Sportitalia.it | IT - Sport Italia
 Star.TV.ch | Star TV
 Stimmungsgarten.TV.ch | Stimmungsgarten TV
 Stingray.Classica.D.ch | Stingray Classica D
@@ -715,8 +1135,10 @@ Stingray.iConcerts.ch | Stingray iConcerts
 Super!.ch | Super!
 Super!.it | Super!
 Super.RTL.ch | Super RTL
+SuperTennis HD.it | SuperTennis HD.it
 SuperTennis.HD.it | SuperTennis HD
 SuperTennis.TV.ch | SuperTennis TV
+SuperTennis.it | IT - SuperTennis
 Swiss.Sport.TV.ch | Swiss Sport TV
 Syfy.D.ch | Syfy D
 Syfy.F.ch | Syfy F
@@ -726,22 +1148,31 @@ TELEGOLD.ch | TELEGOLD
 TF1.Séries.Films.ch | TF1 Séries Films
 TF1.ch | TF1
 TFX.ch | TFX
+TG NORBA 24.it | TG NORBA 24.it
 TG.NORBA.24.it | TG NORBA 24
 TG24PrimoPiano.it | TG24PrimoPiano
 TGCom.it | TGCom
 TGCom24.ch | TGCom24
+TGNORBA24.it | IT - TG NORBA 24
 TGRT.EU.ch | TGRT EU
 TLC.F.ch | TLC F
 TLC.ch | TLC
 TMC.ch | TMC
+TOP Crime.it | TOP Crime.it
+TOPcrime HD.it | TOPcrime HD.it
 TOPcrime.HD..168.it | TOPcrime HD  168
+TOPcrime.it | IT - TOPcrime
+TORINO.SerieA | SERIEA - TORINO
+TRM h24.it | TRM h24.it
 TRM.h24.it | TRM h24
+TRMh24.it | IT - TRM h24
 TRT.Belgesel.ch | TRT Belgesel
 TRT.Kurdi.ch | TRT Kurdi
 TRT.Müzik.ch | TRT Müzik
 TRT.Spor.ch | TRT Spor
 TRT.Türk.ch | TRT Türk
 TRT.Çocuk.ch | TRT Çocuk
+TV 8.it | TV 8.it
 TV.Duga+.ch | TV Duga+
 TV.Dukagjini.ch | TV Dukagjini
 TV.Klan.ch | TV Klan
@@ -752,15 +1183,19 @@ TV.Ora.ch | TV Ora
 TV.Rheintal.ch | TV Rheintal
 TV.Romania.International.ch | TV Romania International
 TV.Südostschweiz.ch | TV Südostschweiz
+TV2000 HD.it | TV2000 HD.it
 TV2000.ch | TV2000
+TV2000.it | IT - TV2000
 TV24.ch | TV24
 TV25.ch | TV25
 TV5.MONDE.EUROPE.ch | TV5 MONDE EUROPE
 TV5.Monde.FBS.ch | TV5 Monde FBS
+TV8 HD.it | TV8 HD.it
 TV8.HD.it | TV8 HD
 TV8.Int..ch | TV8 Int.
 TV8.Mont.Blanc.ch | TV8 Mont Blanc
 TV8.ch | TV8
+TV8.it | IT - TV8
 TVCG.MNE.ch | TVCG MNE
 TVE.Internacional.ch | TVE Internacional
 TVI.Internacional.ch | TVI Internacional
@@ -793,15 +1228,20 @@ Televisión.de.Galicia.ch | Televisión de Galicia
 Televista.ch | Televista
 Test.Italia.ch | Test Italia
 Teve.1.ch | Teve 1
+TgCom24 HD.it | TgCom24 HD.it
+TgCom24.it | IT - TgCom24
+Tgcom24.it | Tgcom24.it
 The.Filmclub.ch | The Filmclub
 Tiji.ch | Tiji
 Tlnovelas.ch | Tlnovelas
 Toggo.Plus.ch | Toggo Plus
+Top Crime.it | Top Crime.it
 Top.Calcio.24.ch | Top Calcio 24
 Top.Channel.ch | Top Channel
 Top.Crime.ch | Top Crime
 Top.Crime.it | Top Crime
 Top.News.ch | Top News
+TorinoChannel.it | IT - Torino Channel
 Toute.l&apos;Histoire.ch | Toute l&apos;Histoire
 Trace.Caribbean.ch | Trace Caribbean
 Trace.Latina.ch | Trace Latina
@@ -810,28 +1250,37 @@ Trek.ch | Trek
 Trentino.TV.ch | Trentino TV
 True.Crime.ch | True Crime
 Tunisie.Nationale.ch | Tunisie Nationale
+Tv 2000.it | Tv 2000.it
+Twenty Seven.it | Twenty Seven.it
+TwentySeven.it | TwentySeven.it
 Twentyseven.ch | Twentyseven
 Télétoon+.ch | Télétoon+
 U&amp;Dave.ch | U&amp;Dave
 U&amp;Drama.ch | U&amp;Drama
 U&amp;Yesterday.ch | U&amp;Yesterday
+UDINESE.SerieA | SERIEA - UDINESE
 UHD1.by.ASTRA.ch | UHD1 by ASTRA
 UniNettuno.University.TV.ch | UniNettuno University TV
+UnireSat.it | IT - UnireSat
 Universal.TV.ch | Universal TV
 Ushuaia.TV.ch | Ushuaia TV
 Utsav.Gold.ch | Utsav Gold
 Utsav.Plus.ch | Utsav Plus
 V+TVI.ch | V+TVI
+VALUE 24 TV.it | VALUE 24 TV.it
 VALUE.24.TV.it | VALUE 24 TV
+VH1.it | IT - VH1
 VOX.ch | VOX
 VOXup.ch | VOXup
 Video.Italia.TV.ch | Video Italia TV
 Vijay.TV.ch | Vijay TV
+Virgin Radio.it | Virgin Radio.it
 Virgin.Radio.it | Virgin Radio
 Volksmusik.TV.ch | Volksmusik.TV
 W9.ch | W9
 WDR.ch | WDR
 WELT.ch | WELT
+Warner TV.it | Warner TV.it
 Warner.TV.Comedy.ch | Warner TV Comedy
 Warner.TV.Film.ch | Warner TV Film
 Warner.TV.Italy.ch | Warner TV Italy
@@ -839,6 +1288,7 @@ Warner.TV.Serie.ch | Warner TV Serie
 Warner.TV.ch | Warner TV
 Warner.TV.it | Warner TV
 WarnerTV.Next.ch | WarnerTV Next
+WarnerTV.it | IT - Warner TV
 Welt.der.Wunder.TV.ch | Welt der Wunder TV
 Wetter.TV.ch | Wetter.TV
 Xplore.ch | Xplore
@@ -848,6 +1298,12 @@ ZDF.select.(Logo.VOD).ch | ZDF select (Logo VOD)
 ZDFinfo.ch | ZDFinfo
 ZDFneo.ch | ZDFneo
 ZDFtivi.select.(Logo.VOD).ch | ZDFtivi select (Logo VOD)
+ZONA DAZN.it | ZONA DAZN.it
+ZONADAZN.it | IT - ZONA DAZN
+ZONADAZN2.it | IT - ZONA DAZN 2
+ZONADAZN3.it | IT - ZONA DAZN 3
+ZONADAZN4.it | IT - ZONA DAZN 4
+ZONADAZN5.it | IT - ZONA DAZN 5
 Zico.TV.ch | Zico TV
 Zwei.Music.Television.ch | Zwei Music Television
 auto.motor.sport.ch | auto motor sport
@@ -929,6 +1385,7 @@ franceinfo.ch | franceinfo
 histoire.ch | histoire
 i24.News.Français.ch | i24 News Français
 i24.News.ch | i24 News
+i24news.it | IT - i24news
 infosport+.ch | infosport+
 kabel.eins.CLASSICS.ch | kabel eins CLASSICS
 kabel.eins.Doku.ch | kabel eins Doku
