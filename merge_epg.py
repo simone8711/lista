@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Fonde le guide EPG in un unico XMLTV. Ordine = priorita': epg.lat ed
 epgshare01 prima (le playlist usano i loro ID); le fonti in fondo riempiono
-solo i buchi (open-epg, free-epg, Rytec, iptv-epg.org = ID stile ITFISH.it)."""
+i buchi (open-epg, free-epg, Rytec, iptv-epg.org, Samsung i.mjh.nz)."""
 
 import gzip
 import re
@@ -26,10 +26,14 @@ SOURCES = [
         "https://iptv-epg.org/files/epg-it.xml.gz",
         "https://iptv-epg.org/files/epg-it.xml",
     ], False),
+    ([
+        "https://raw.githubusercontent.com/matthuisman/i.mjh.nz/refs/heads/master/SamsungTVPlus/it.xml",
+    ], False),
 ]
 
 OUT_GZ = Path("epg.xml.gz")
 OUT_CH = Path("channels.txt")
+FISH_IDS = ("IT600001L6", "ItalianFishingTV.it", "ITFISH.it")
 
 
 def fetch(url: str) -> str:
@@ -90,9 +94,25 @@ def main():
     OUT_GZ.write_bytes(gzip.compress(body.encode("utf-8"), compresslevel=6))
     OUT_CH.write_text("\n".join(sorted(names)) + "\n", encoding="utf-8")
 
-    for probe in ("ITFISH.it", "ItalianFishingTV.it"):
+    for probe in FISH_IDS:
         n = len(re.findall(r'<programme[^>]*channel="' + re.escape(probe) + r'"', body))
         print(f"fishing {probe}: {n} programmi nel file")
+
+    # mini-EPG di emergenza: canali fishing per ID o per nome
+    fish_ch = []
+    for c in channels:
+        cid = re.search(r'id="([^"]+)"', c).group(1)
+        disp = re.search(r'<display-name[^>]*>([^<]+)</display-name>', c)
+        dname = disp.group(1).lower() if disp else ""
+        if "fish" in cid.lower() or "fish" in dname:
+            fish_ch.append(c)
+    fish_ids = set(re.search(r'id="([^"]+)"', c).group(1) for c in fish_ch)
+    fish_pg = [p for p in programmes
+               if re.search(r'channel="([^"]+)"', p[:p.find(">") + 1]).group(1) in fish_ids]
+    if fish_ch:
+        fbody = head + "\n".join(fish_ch) + "\n" + "\n".join(fish_pg) + "\n</tv>\n"
+        Path("epg-fishing.xml.gz").write_bytes(gzip.compress(fbody.encode("utf-8"), compresslevel=6))
+        print(f"epg-fishing.xml.gz: {len(fish_ch)} canali, {len(fish_pg)} programmi")
 
     print(f"OK: epg.xml.gz = {OUT_GZ.stat().st_size // 1024} KB | "
           f"{len(channels)} canali, {len(programmes)} programmi")
