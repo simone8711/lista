@@ -595,6 +595,7 @@ IT3600001Q1 | Crime Time
 IT3600004TW | Western Time
 IT3600005AL | Cine Paura
 IT3600007QQ | Soap Turco
+IT36000081V | Horror Club
 IT3700001R9 | Forensic Files
 IT3800001XM | Cine Amore
 IT3800003GX | Guardia Costiera
@@ -610,7 +611,6 @@ IT4500001L4 | Squadra Speciale Cobra 11
 IT4600001JQ | Soap Latino
 IT480000143 | Teletubbies
 IT500002FD | Duri a morire
-IT500004JK | Romantica
 IT500006GE | 70-80.it
 IT500008CB | 3BMeteo
 IT500010AQ | Class TV Moda
