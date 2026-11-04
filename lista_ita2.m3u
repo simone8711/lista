@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/simone8711/lista/main/epg.xml.gz"
-#EXTINF:-1 tvg-id="Sky.Sport.Tennis.it" tvg-name="Sky Sport Tennis NZ6" group-title="Italy",Sky Sport Tennis NZ6
+#EXTINF:-1 tvg-id="Sky Sport Tennis.it" tvg-name="Sky Sport Tennis.it" group-title="Italy",Sky Sport Tennis NZ6
 https://simone11.val.run/vavoo-stream/live?ch=nz-2100771782
-#EXTINF:-1 tvg-id="Sky.Sport.Tennis.it" tvg-name="Sky Sport Tennis NZ7" group-title="Italy",Sky Sport Tennis NZ7
+#EXTINF:-1 tvg-id="Sky Sport Tennis.it" tvg-name="Sky Sport Tennis.it" group-title="Italy",Sky Sport Tennis NZ7
 https://simone11.val.run/vavoo-stream/live?ch=nz-78546677
 #EXTINF:-1 tvg-name="Rai 1" tvg-logo="https://i.imgur.com/CAx7yRm.png" tvg-id="Rai.1.ch" tvg-chno="1" tvg-country="IT" group-title="Italy",Rai 1
 https://d3k8wzt41aflvx.cloudfront.net/RAI1/Live.m3u8
