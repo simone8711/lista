@@ -538,7 +538,7 @@ IT3600005AL | Cine Paura
 IT3600007QQ | Soap Turco
 IT36000081V | Horror Club
 IT3700001R9 | Forensic Files
-IT3800001XM | Cine Amore
+IT3800001XM | Cine Natale
 IT3800003GX | Guardia Costiera
 IT3800005HI | Squadra Speciale
 IT38000070T | Red Bull TV
