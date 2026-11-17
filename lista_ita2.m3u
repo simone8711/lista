@@ -338,16 +338,6 @@ https://resolvers.simone-scorrano-2011.workers.dev/daddy?ch=867
 #EXTVLCOPT:network-caching=3000
 https://resolvers.simone-scorrano-2011.workers.dev/daddy?ch=868
 
-#EXTINF:-1 tvg-id="SkyCinemaUno+24.it" tvg-name="IT - Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Italy",Sky Cinema Uno +24 Daddy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=3000
-https://resolvers.simone-scorrano-2011.workers.dev/daddy?ch=863
-
-#EXTINF:-1 tvg-id="SkyCinemaDue+24.it" tvg-name="IT - Sky Cinema Due +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Italy",Sky Cinema Due +24 Daddy
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=3000
-https://resolvers.simone-scorrano-2011.workers.dev/daddy?ch=866
-
 #EXTINF:-1 tvg-id="Sky.Crime.IT.ch" tvg-name="Sky Crime IT" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-crime-it.png" group-title="Italy",Sky Crime Daddy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=3000
