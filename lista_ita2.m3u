@@ -283,17 +283,17 @@ https://resolvers.simone-scorrano-2011.workers.dev/ntv?ch=879
 #EXTVLCOPT:network-caching=3000
 https://resolvers.simone-scorrano-2011.workers.dev/daddy?ch=879
 
-#EXTINF:-1 tvg-id="Sky.Sport..251.it" tvg-name="Sky Sport 251" tvg-logo="https://www.tvlogo.org/italy/sky-sport-it.png" group-title="Italy",Sky Calcio 251 Daddy
+#EXTINF:-1 tvg-id="Sky.Sport..251.it" tvg-name="Sky Sport  251" tvg-logo="https://www.tvlogo.org/italy/sky-sport-it.png" group-title="Italy",Sky Calcio 251 Daddy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=3000
 https://resolvers.simone-scorrano-2011.workers.dev/daddy?ch=871
 
-#EXTINF:-1 tvg-id="Sky.Sport..252.it" tvg-name="Sky Sport 252" tvg-logo="https://www.tvlogo.org/italy/sky-sport-it.png" group-title="Italy",Sky Calcio 252 Daddy
+#EXTINF:-1 tvg-id="Sky.Sport..252.it" tvg-name="Sky Sport  252" tvg-logo="https://www.tvlogo.org/italy/sky-sport-it.png" group-title="Italy",Sky Calcio 252 Daddy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=3000
 https://resolvers.simone-scorrano-2011.workers.dev/daddy?ch=872
 
-#EXTINF:-1 tvg-id="Sky.Sport..253.it" tvg-name="Sky Sport 253" tvg-logo="https://www.tvlogo.org/italy/sky-sport-it.png" group-title="Italy",Sky Calcio 253 Daddy
+#EXTINF:-1 tvg-id="Sky.Sport..253.it" tvg-name="Sky Sport  253" tvg-logo="https://www.tvlogo.org/italy/sky-sport-it.png" group-title="Italy",Sky Calcio 253 Daddy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=3000
 https://resolvers.simone-scorrano-2011.workers.dev/daddy?ch=873
@@ -338,12 +338,12 @@ https://resolvers.simone-scorrano-2011.workers.dev/daddy?ch=867
 #EXTVLCOPT:network-caching=3000
 https://resolvers.simone-scorrano-2011.workers.dev/daddy?ch=868
 
-#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="IT - Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Italy",Sky Cinema Uno +24 Daddy
+#EXTINF:-1 tvg-id="SkyCinemaUno+24.it" tvg-name="IT - Sky Cinema Uno +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Italy",Sky Cinema Uno +24 Daddy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=3000
 https://resolvers.simone-scorrano-2011.workers.dev/daddy?ch=863
 
-#EXTINF:-1 tvg-id="SkyCinemaUno.it" tvg-name="IT - Sky Cinema Due +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Italy",Sky Cinema Due +24 Daddy
+#EXTINF:-1 tvg-id="SkyCinemaDue+24.it" tvg-name="IT - Sky Cinema Due +24" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-cinema-uno-it.png" group-title="Italy",Sky Cinema Due +24 Daddy
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=3000
 https://resolvers.simone-scorrano-2011.workers.dev/daddy?ch=866
