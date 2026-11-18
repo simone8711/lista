@@ -504,7 +504,10 @@ IT2600007WQ | Commedia - Rakuten TV
 IT2600008RA | Serie Crime - Rakuten TV
 IT2600009QD | Euronews IN DIRETTA
 IT2600010E0 | 100% Natale - Rakuten TV
+IT2600011K1 | Radio Italianissima
+IT2600014Z6 | BeJoy Kids
 IT2700002ZN | Class CNBC
+IT2700004G4 | Value 24
 IT2900001B5 | BBC Series
 IT2900002QI | Piel Salvaje
 IT2900003UK | Automoto
@@ -537,6 +540,7 @@ IT3600004TW | Western Time
 IT3600005AL | Cine Paura
 IT3600007QQ | Soap Turco
 IT36000081V | Horror Club
+IT3600009KN | Vevo Natale
 IT3700001R9 | Forensic Files
 IT3800001XM | Cine Natale
 IT3800003GX | Guardia Costiera
@@ -642,7 +646,7 @@ ITBD1900010JL | Vevo '70s &amp; '80s
 ITBD2300001MT | RBN
 ITBD29000015E | World Poker Tour
 ITBD300001GI | Move - Sportivi in Viaggio
-ITBD3200001VR | Supercinema
+ITBD3200001VR | Christmas Time
 ITBD3200002DU | Cine Thriller
 ITBD3200003HL | Andromeda
 ITBD3200004KN | Autostop per il Cielo
