@@ -213,11 +213,6 @@ https://resolvers.simone-scorrano-2011.workers.dev/daddy?ch=875
 #EXTVLCOPT:network-caching=1500
 https://resolvers.simone-scorrano-2011.workers.dev/ntv?ch=875
 
-#EXTINF:-1 tvg-id="Sky.Sport.Calcio.it" tvg-name="Sky Sport Serie A" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-serie-a-it.png" group-title="Italy",Sky Sport Serie A
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
-#EXTVLCOPT:network-caching=1500
-https://resolvers.simone-scorrano-2011.workers.dev/vavoo?ch=sky%20sport%20serie%20a
-
 #EXTINF:-1 tvg-id="Sky.Sport.Tennis.it" tvg-name="Sky Sport Tennis" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/sky-sport-tennis-it.png" group-title="Italy",Sky Sport Tennis
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36
 #EXTVLCOPT:network-caching=1500
